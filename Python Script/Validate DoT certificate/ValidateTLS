@@ -1,0 +1,51 @@
+import pandas as pd
+import socket
+import ssl
+from google.colab import files
+
+# Upload the CSV file
+uploaded = files.upload()
+
+# Assuming the file name is known, otherwise get the first uploaded file
+file_name = list(uploaded.keys())[0]
+
+# Load the list of IP addresses from the uploaded CSV file, specifying no header
+ips_df = pd.read_csv(file_name, header=None)
+
+# Rename the single column to 'ip'
+ips_df.columns = ['ip']
+
+# Display the first few rows of the dataframe to inspect the data
+print("First few rows of the uploaded CSV file:")
+print(ips_df.head())
+
+# Initialize counters
+total_resolvers = len(ips_df)
+invalid_cert_count = 0
+
+def is_certificate_valid(ip):
+    try:
+        context = ssl.create_default_context()
+        with socket.create_connection((ip, 853), timeout=5) as sock:
+            with context.wrap_socket(sock, server_hostname=ip) as ssock:
+                # Get the certificate
+                cert = ssock.getpeercert()
+                # Validate the certificate (this will raise an exception if invalid)
+                ssl.match_hostname(cert, ip)
+        return True
+    except Exception as e:
+        return False
+
+# Check each IP address
+for index, ip in enumerate(ips_df['ip']):
+    print(f"Checking IP {index + 1}/{total_resolvers}: {ip}")
+    if not is_certificate_valid(ip):
+        invalid_cert_count += 1
+    print(f"IP {ip} processed")
+
+# Calculate the ratio of invalid certificates
+invalid_cert_ratio = invalid_cert_count / total_resolvers
+
+print(f"Total Resolvers: {total_resolvers}")
+print(f"Invalid Certificates: {invalid_cert_count}")
+print(f"Ratio of Invalid Certificates: {invalid_cert_ratio:.2f}")
