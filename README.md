@@ -41,6 +41,7 @@ python3 geo_location.py
 - To validate resolver's certificate:
 ```sh
 python3 validateTLS.py
+// input the open resolver list file
 ```
 
 
