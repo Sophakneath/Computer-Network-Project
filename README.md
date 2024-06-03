@@ -38,6 +38,10 @@ python3 dot_send_query.py
 ```sh
 python3 geo_location.py
 ```
+- To validate SSL certificate:
+```sh
+python3 validateTLS.py
+```
 
 
 
