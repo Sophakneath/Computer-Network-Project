@@ -1,0 +1,324 @@
+ASN Info,Domain,Reason,Count,Reason_Count
+AS10029,spectra.co,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS10212,china-entercom.net,_ssl.c:990: The handshake operation timed out,2,2
+AS11556,cwpanama.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS12129,123.net,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '67.214.113.132'. (_ssl.c:1007)",1,1
+AS1257,tele2.se,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS12708,talktalkplc.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.175.49.5'. (_ssl.c:1007)",1,1
+AS12735,turk.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS12978,dr.com.tr,_ssl.c:990: The handshake operation timed out,1,1
+AS132280,symphony.net.th,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS132280,symphony.net.th,timed out,1,1
+AS132525,chinamobile.com,[Errno 104] Connection reset by peer,1,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.36.38'. (_ssl.c:1007)",9,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.36.54'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.36.77'. (_ssl.c:1007)",9,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.46.100'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.46.195'. (_ssl.c:1007)",9,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.46.204'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.46.75'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.50.172'. (_ssl.c:1007)",9,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.50.83'. (_ssl.c:1007)",8,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.51.116'. (_ssl.c:1007)",8,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.56.112'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.56.206'. (_ssl.c:1007)",9,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.56.28'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.107'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.124'. (_ssl.c:1007)",8,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.129'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.15'. (_ssl.c:1007)",8,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.157'. (_ssl.c:1007)",8,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.198'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.129'. (_ssl.c:1007)",9,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.3'. (_ssl.c:1007)",9,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.53'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.68'. (_ssl.c:1007)",17,2
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.37.195'. (_ssl.c:1007)",8,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.37.21'. (_ssl.c:1007)",9,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.46.128'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.47.179'. (_ssl.c:1007)",8,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.47.197'. (_ssl.c:1007)",13,1
+AS13335,cloudflare.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.47.7'. (_ssl.c:1007)",13,1
+AS133774,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,6,4
+AS133775,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,2,2
+AS133776,chinatelecom.cn,[Errno 104] Connection reset by peer,5,2
+AS133776,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,8,3
+AS133982,excitel.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),9,3
+AS134238,chinatelecom.cn,[Errno 104] Connection reset by peer,7,1
+AS134238,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,32,6
+AS134238,chinatelecom.cn,timed out,14,2
+AS134420,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS134762,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS134764,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,18,6
+AS134764,chinatelecom.cn,timed out,1,1
+AS134771,chinatelecom.cn,[Errno 104] Connection reset by peer,272,20
+AS134771,chinatelecom.cn,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007),10,1
+AS134771,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,146,12
+AS134771,chinatelecom.cn,timed out,10,1
+AS134773,chinatelecom.cn,[Errno 104] Connection reset by peer,2,1
+AS134773,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,7,4
+AS134810,chinamobile.com,_ssl.c:990: The handshake operation timed out,9,5
+AS13591,metrored.com.mx,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS136188,chinatelecom.cn,[Errno 104] Connection reset by peer,28,7
+AS136188,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,10,3
+AS136190,chinatelecom.cn,[Errno 104] Connection reset by peer,2,1
+AS136190,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,12,3
+AS136190,chinatelecom.cn,timed out,6,2
+AS136200,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,6,3
+AS136200,chinatelecom.cn,timed out,2,1
+AS136291,mpsedc.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS137693,nn.gx.cn,_ssl.c:990: The handshake operation timed out,15,5
+AS137693,nn.gx.cn,timed out,3,1
+AS137697,chinatelecom.cn,[Errno 104] Connection reset by peer,10,4
+AS137697,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,3,1
+AS137702,chinatelecom.cn,[Errno 104] Connection reset by peer,1,1
+AS137702,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS137788,cnnic.cn,_ssl.c:990: The handshake operation timed out,2,2
+AS138421,chinaunicom.cn,_ssl.c:990: The handshake operation timed out,2,2
+AS138950,chinatelecom.cn,[Errno 104] Connection reset by peer,4,1
+AS138950,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,79,14
+AS138950,chinatelecom.cn,timed out,7,1
+AS139007,hh.nm.cn,[Errno 104] Connection reset by peer,28,4
+AS139007,hh.nm.cn,_ssl.c:990: The handshake operation timed out,110,16
+AS139019,chinatelecom.cn,[Errno 104] Connection reset by peer,1,1
+AS139019,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS139080,chinamobile.com,[Errno 104] Connection reset by peer,1,1
+AS140292,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,22,8
+AS140525,gigalinkhk.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS14061,digitalocean.com,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007),1,1
+AS140726,chinaunicom.cn,[Errno 104] Connection reset by peer,1,1
+AS141057,fifacorp.co.id,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.155.26.28'. (_ssl.c:1007)",1,1
+AS141679,chinatelecom.cn,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '117.72.65.112'. (_ssl.c:1007)",1,1
+AS141679,chinatelecom.cn,timed out,1,1
+AS148981,ct1000.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '111.173.105.195'. (_ssl.c:1007)",1,1
+AS148981,ct1000.com,_ssl.c:990: The handshake operation timed out,1,1
+AS150986,altafocus.id,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.193.147.157'. (_ssl.c:1007)",1,1
+AS15344,discoverflow.co,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS15617,nova.gr,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS16097,pyur.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS16276,ovhcloud.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '54.37.234.80'. (_ssl.c:1007)",1,1
+AS16509,amazon.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '3.22.227.174'. (_ssl.c:1007)",3,1
+AS16509,amazon.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '52.33.232.219'. (_ssl.c:1007)",3,1
+AS16509,amazon.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),5,3
+AS16591,gfiber.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS17429,bgctv.com.cn,[Errno 104] Connection reset by peer,1,1
+AS17621,chinaunicom.cn,[Errno 104] Connection reset by peer,1,1
+AS17622,chinaunicom.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS17623,chinaunicom.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS17676,softbank.jp,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS17995,iforte.co.id,[Errno 104] Connection reset by peer,129,16
+AS17995,iforte.co.id,_ssl.c:990: The handshake operation timed out,56,7
+AS17995,iforte.co.id,timed out,9,1
+AS19165,webpass.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS198394,yahsat.ae,_ssl.c:990: The handshake operation timed out,1,1
+AS200780,appliwave.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS20115,charter.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS20115,charter.com,timed out,1,1
+AS203791,avantnet.ru,_ssl.c:990: The handshake operation timed out,1,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.132'. (_ssl.c:1007)",2,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.17'. (_ssl.c:1007)",4,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.171'. (_ssl.c:1007)",2,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.44'. (_ssl.c:1007)",3,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.52'. (_ssl.c:1007)",3,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.169.24'. (_ssl.c:1007)",4,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.169.59'. (_ssl.c:1007)",4,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.170.137'. (_ssl.c:1007)",4,1
+AS205157,danielselectric.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.170.60'. (_ssl.c:1007)",3,1
+AS205647,rasana.net,timed out,1,1
+AS206283,yahsat.ae,[Errno 104] Connection reset by peer,1,1
+AS206283,yahsat.ae,_ssl.c:990: The handshake operation timed out,1,1
+AS208972,gibir.net.tr,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '38.10.69.49'. (_ssl.c:1007)",1,1
+AS212063,serverclick.com,timed out,1,1
+AS21782,plateautel.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS21782,plateautel.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS22442,phonoscope.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS22573,nwtel.ca,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS22646,hargray.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS22652,fibrenoire.ca,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS22884,totalplay.com.mx,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS23650,rtat.net,[Errno 104] Connection reset by peer,18,2
+AS23650,rtat.net,_ssl.c:990: The handshake operation timed out,200,23
+AS23650,rtat.net,timed out,8,1
+AS23724,chinatelecom.cn,[Errno 104] Connection reset by peer,10,2
+AS23724,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,37,8
+AS23724,chinatelecom.cn,timed out,7,2
+AS23889,telecom.mu,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS24085,qtsc.com.vn,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS24444,chinamobile.com,[Errno 104] Connection reset by peer,1,1
+AS24445,chinamobile.com,[Errno 104] Connection reset by peer,3,1
+AS24445,chinamobile.com,_ssl.c:990: The handshake operation timed out,19,7
+AS24547,chinamobile.com,_ssl.c:990: The handshake operation timed out,2,2
+AS24921,lmt.lv,_ssl.c:990: The handshake operation timed out,5,3
+AS25184,afranet.com,timed out,1,1
+AS25549,avantel.ru,[Errno 111] Connection refused,2,2
+AS265691,win.pe,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007),1,1
+AS27651,entel.cl,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS27837,dialnet.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS28118,altice.com.do,_ssl.c:990: The handshake operation timed out,1,1
+AS28438,redit.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS29056,citycom-austria.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS29684,nour.net.sa,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS30844,liquidtelecom.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '41.175.4.52'. (_ssl.c:1007)",1,1
+AS31549,shatel.ir,timed out,2,2
+AS31898,oracle.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '138.3.243.96'. (_ssl.c:1007)",1,1
+AS32098,transtelco.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),2,2
+AS32212,skyfiberinternet.com,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007),1,1
+AS328471,herotel.com,[Errno 104] Connection reset by peer,1,1
+AS3303,swisscom.ch,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007),1,1
+AS3356,lumen.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '4.7.75.194'. (_ssl.c:1007)",1,1
+AS34244,teleservice.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS34315,quantcom.cz,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS3462,hinet.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS34841,balchik.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS34918,pishgaman.net,timed out,4,2
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.28.180'. (_ssl.c:1007)",3,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.28.22'. (_ssl.c:1007)",3,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.29.225'. (_ssl.c:1007)",3,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.29.33'. (_ssl.c:1007)",3,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.29.82'. (_ssl.c:1007)",4,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.29.95'. (_ssl.c:1007)",4,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.30.35'. (_ssl.c:1007)",3,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.31.11'. (_ssl.c:1007)",3,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.31.220'. (_ssl.c:1007)",4,1
+AS34939,nextdns.io,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.31.66'. (_ssl.c:1007)",4,1
+AS3549,lumen.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS36236,netactuate.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '104.225.112.235'. (_ssl.c:1007)",1,1
+AS36994,vodacom.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS37353,macrolan.co.za,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS37457,telkom.co.za,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS37937,cei.gov.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS37963,alibabagroup.com,[Errno 104] Connection reset by peer,18594,220
+AS37963,alibabagroup.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '114.55.26.68'. (_ssl.c:1007)",73,1
+AS37963,alibabagroup.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),73,1
+AS37963,alibabagroup.com,_ssl.c:990: The handshake operation timed out,429,5
+AS37963,alibabagroup.com,timed out,2100,24
+AS38283,chinatelecom.cn,[Errno 104] Connection reset by peer,6,1
+AS38283,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,58,12
+AS38283,chinatelecom.cn,timed out,6,1
+AS38700,smileserv.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '115.68.248.239'. (_ssl.c:1007)",1,1
+AS39368,server.ir,[Errno 111] Connection refused,1,1
+AS39567,md6.fr,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS398962,controld.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '176.125.239.238'. (_ssl.c:1007)",3,1
+AS398962,controld.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '176.125.239.248'. (_ssl.c:1007)",4,1
+AS398962,controld.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.10.25'. (_ssl.c:1007)",4,1
+AS398962,controld.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.2.166'. (_ssl.c:1007)",4,1
+AS398962,controld.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.2.189'. (_ssl.c:1007)",4,1
+AS398962,controld.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.2.239'. (_ssl.c:1007)",3,1
+AS398962,controld.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.2.44'. (_ssl.c:1007)",3,1
+AS40509,fly.io,_ssl.c:990: The handshake operation timed out,1,1
+AS41095,iptp.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '98.158.107.176'. (_ssl.c:1007)",1,1
+AS4134,chinatelecom.com.cn,[Errno 104] Connection reset by peer,925,18
+AS4134,chinatelecom.com.cn,[Errno 111] Connection refused,46,1
+AS4134,chinatelecom.com.cn,[Errno 113] No route to host,356,7
+AS4134,chinatelecom.com.cn,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '121.231.38.108'. (_ssl.c:1007)",50,1
+AS4134,chinatelecom.com.cn,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007),57,1
+AS4134,chinatelecom.com.cn,_ssl.c:990: The handshake operation timed out,5705,111
+AS4134,chinatelecom.com.cn,timed out,726,14
+AS42337,respina.net,timed out,2,2
+AS42708,glesys.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '109.74.12.20'. (_ssl.c:1007)",1,1
+AS43754,asiatech.ir,timed out,1,1
+AS45090,tencent.com,[Errno 104] Connection reset by peer,1,1
+AS45090,tencent.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '106.54.166.238'. (_ssl.c:1007)",5,1
+AS45090,tencent.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),5,1
+AS45090,tencent.com,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007),24,6
+AS45117,ishanitech.biz,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS4538,cernet.edu.cn,[Errno 104] Connection reset by peer,864,24
+AS4538,cernet.edu.cn,[Errno 113] No route to host,37,1
+AS4538,cernet.edu.cn,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007),37,1
+AS4538,cernet.edu.cn,_ssl.c:990: The handshake operation timed out,1430,40
+AS4538,cernet.edu.cn,timed out,1451,41
+AS45820,tatatelebusiness.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),2,2
+AS46375,sonic.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS4713,ntt.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),5,3
+AS47376,ground.ir,timed out,1,1
+AS4760,netvigator.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),4,2
+AS4766,kt.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),51,11
+AS4766,kt.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),10,2
+AS47692,nessus.at,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '83.137.113.135'. (_ssl.c:1007)",1,1
+AS47869,colohouse.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS4808,chinaunicom.cn,[Errno 104] Connection reset by peer,31,2
+AS4808,chinaunicom.cn,[Errno 111] Connection refused,15,1
+AS4808,chinaunicom.cn,_ssl.c:990: The handshake operation timed out,676,43
+AS4808,chinaunicom.cn,timed out,15,1
+AS4811,chinatelecom.com.cn,[Errno 104] Connection reset by peer,50,2
+AS4811,chinatelecom.com.cn,_ssl.c:990: The handshake operation timed out,1245,55
+AS4811,chinatelecom.com.cn,timed out,180,8
+AS4812,chinatelecom.com.cn,[Errno 104] Connection reset by peer,61,6
+AS4812,chinatelecom.com.cn,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007),8,1
+AS4812,chinatelecom.com.cn,_ssl.c:990: The handshake operation timed out,213,21
+AS48309,spadana.net,timed out,1,1
+AS4835,chinatelecom.com.cn,[Errno 104] Connection reset by peer,2,2
+AS4837,chinaunicom.cn,[Errno 104] Connection reset by peer,277,13
+AS4837,chinaunicom.cn,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007),21,1
+AS4837,chinaunicom.cn,_ssl.c:990: The handshake operation timed out,1068,48
+AS4837,chinaunicom.cn,timed out,61,3
+AS4847,bta.net.cn,[Errno 104] Connection reset by peer,23,3
+AS4847,bta.net.cn,_ssl.c:990: The handshake operation timed out,106,16
+AS48715,shahrad.net,timed out,4,2
+AS49100,pishgaman.net,timed out,1,1
+AS50266,odido.nl,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '81.59.121.180'. (_ssl.c:1007)",1,1
+AS51431,avabarid.com,timed out,5,3
+AS51759,piroozonline.net,timed out,1,1
+AS52112,gentlent.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '166.0.226.3'. (_ssl.c:1007)",1,1
+AS54825,packet.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '147.28.128.245'. (_ssl.c:1007)",1,1
+AS55423,jastel.co.th,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS55836,jio.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS55990,huaweicloud.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '1.94.22.159'. (_ssl.c:1007)",2,1
+AS55990,huaweicloud.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),2,1
+AS55990,huaweicloud.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007),1,1
+AS56041,chinamobile.com,[Errno 104] Connection reset by peer,17,5
+AS56041,chinamobile.com,_ssl.c:990: The handshake operation timed out,12,4
+AS56046,chinamobile.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '183.207.181.184'. (_ssl.c:1007)",3,1
+AS56046,chinamobile.com,_ssl.c:990: The handshake operation timed out,16,6
+AS56048,chinamobile.com,[Errno 104] Connection reset by peer,4,1
+AS56048,chinamobile.com,_ssl.c:990: The handshake operation timed out,29,8
+AS5607,sky.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS56765,sbu.ac.ir,timed out,4,2
+AS57391,laser.ir,timed out,2,2
+AS58224,tci.ir,timed out,4,2
+AS58448,conac.cn,_ssl.c:990: The handshake operation timed out,6,4
+AS58461,chinatelecom.cn,[Errno 104] Connection reset by peer,111,9
+AS58461,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,346,26
+AS58461,chinatelecom.cn,timed out,28,2
+AS58466,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,4,2
+AS58542,chinatelecom.cn,[Errno 104] Connection reset by peer,1,1
+AS58543,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,2,2
+AS58563,chinatelecom.cn,[Errno 104] Connection reset by peer,20,3
+AS58563,chinatelecom.cn,_ssl.c:990: The handshake operation timed out,111,14
+AS58563,chinatelecom.cn,timed out,3,1
+AS59029,people.cn,[Errno 104] Connection reset by peer,1,1
+AS60077,asiatech.ir,timed out,1,1
+AS60423,mggsnet.com,timed out,1,1
+AS60631,parspack.com,timed out,1,1
+AS60782,inter-plus.eu,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS62442,fanavaidc.com,timed out,1,1
+AS6327,shaw.ca,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS63548,lenovo.com,[Errno 104] Connection reset by peer,1,1
+AS63612,cnnic.cn,[Errno 104] Connection reset by peer,27,1
+AS63612,cnnic.cn,_ssl.c:990: The handshake operation timed out,2107,79
+AS63663,cnnic.cn,_ssl.c:990: The handshake operation timed out,5,3
+AS63835,189.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS64022,kamatera.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.102.44.211'. (_ssl.c:1007)",1,1
+AS701,verizonbusiness.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS7018,att.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS7497,cnic.cn,_ssl.c:990: The handshake operation timed out,5,3
+AS7738,vtal.com,[Errno 104] Connection reset by peer,2,1
+AS7738,vtal.com,_ssl.c:990: The handshake operation timed out,2,1
+AS7922,comcast.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1007),1,1
+AS8075,microsoft.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS8473,bahnhof.se,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),1,1
+AS9021,isnet.net.tr,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS9121,turktelekom.com.tr,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS9123,timeweb.ru,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '91.200.148.99'. (_ssl.c:1007)",1,1
+AS9286,kinx.net,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS9299,pldt.com,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '124.105.28.42'. (_ssl.c:1007)",1,1
+AS9318,skbroadband.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007),6,4
+AS9498,airtel.in,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS9583,sifycorp.com,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007),1,1
+AS9808,10086.cn,[Errno 104] Connection reset by peer,3,1
+AS9808,10086.cn,_ssl.c:990: The handshake operation timed out,48,9
+AS9808,10086.cn,timed out,19,4
+AS9812,scn.com.cn,_ssl.c:990: The handshake operation timed out,1,1
+AS9875,psn.co.id,[Errno 104] Connection reset by peer,252,20
+AS9875,psn.co.id,_ssl.c:990: The handshake operation timed out,118,10
+AS9875,psn.co.id,timed out,24,2
