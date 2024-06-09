@@ -1,0 +1,1450 @@
+IP,ASN Info,Count,Domain,Certificate Status,Reason
+180.151.86.26,AS10029,1,spectra.co,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+218.97.24.107,AS10212,1,china-entercom.net,Invalid,_ssl.c:990: The handshake operation timed out
+218.97.22.159,AS10212,1,china-entercom.net,Invalid,_ssl.c:990: The handshake operation timed out
+190.34.202.5,AS11556,1,cwpanama.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+67.214.113.132,AS12129,1,123.net,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '67.214.113.132'. (_ssl.c:1007)"
+83.249.245.101,AS1257,1,tele2.se,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+185.175.49.5,AS12708,1,talktalkplc.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.175.49.5'. (_ssl.c:1007)"
+193.192.113.149,AS12735,1,turk.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+213.243.1.170,AS12978,1,dr.com.tr,Invalid,_ssl.c:990: The handshake operation timed out
+83.118.31.72,AS132280,1,symphony.net.th,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+96.30.125.134,AS132280,1,symphony.net.th,Invalid,timed out
+111.40.181.60,AS132525,1,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+172.64.36.3,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.3'. (_ssl.c:1007)"
+172.64.47.179,AS13335,8,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.47.179'. (_ssl.c:1007)"
+162.159.50.83,AS13335,8,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.50.83'. (_ssl.c:1007)"
+172.64.36.68,AS13335,8,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.68'. (_ssl.c:1007)"
+162.159.57.157,AS13335,8,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.157'. (_ssl.c:1007)"
+162.159.57.124,AS13335,8,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.124'. (_ssl.c:1007)"
+172.64.37.195,AS13335,8,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.37.195'. (_ssl.c:1007)"
+162.159.56.112,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.56.112'. (_ssl.c:1007)"
+172.64.36.53,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.53'. (_ssl.c:1007)"
+172.64.47.197,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.47.197'. (_ssl.c:1007)"
+162.159.36.54,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.36.54'. (_ssl.c:1007)"
+162.159.57.129,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.129'. (_ssl.c:1007)"
+162.159.46.100,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.46.100'. (_ssl.c:1007)"
+172.64.47.7,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.47.7'. (_ssl.c:1007)"
+162.159.46.204,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.46.204'. (_ssl.c:1007)"
+162.159.57.107,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.107'. (_ssl.c:1007)"
+162.159.57.15,AS13335,8,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.15'. (_ssl.c:1007)"
+172.64.46.128,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.46.128'. (_ssl.c:1007)"
+172.64.37.21,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.37.21'. (_ssl.c:1007)"
+162.159.57.198,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.57.198'. (_ssl.c:1007)"
+172.64.36.68,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.68'. (_ssl.c:1007)"
+162.159.56.28,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.56.28'. (_ssl.c:1007)"
+162.159.36.38,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.36.38'. (_ssl.c:1007)"
+172.64.36.129,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '172.64.36.129'. (_ssl.c:1007)"
+162.159.36.77,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.36.77'. (_ssl.c:1007)"
+162.159.46.195,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.46.195'. (_ssl.c:1007)"
+162.159.56.206,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.56.206'. (_ssl.c:1007)"
+162.159.50.172,AS13335,9,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.50.172'. (_ssl.c:1007)"
+162.159.51.116,AS13335,8,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.51.116'. (_ssl.c:1007)"
+162.159.46.75,AS13335,13,cloudflare.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '162.159.46.75'. (_ssl.c:1007)"
+222.77.181.75,AS133774,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.77.185.95,AS133774,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+117.27.136.196,AS133774,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.77.181.58,AS133774,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.98.100.237,AS133775,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.98.100.120,AS133775,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+125.77.177.243,AS133776,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+121.205.90.85,AS133776,3,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+59.57.13.171,AS133776,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+125.77.168.183,AS133776,2,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+59.57.13.137,AS133776,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.235.231.9,AS133982,3,excitel.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+110.235.231.2,AS133982,3,excitel.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+38.254.162.6,AS133982,3,excitel.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+59.63.166.74,AS134238,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+59.63.188.159,AS134238,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+106.225.218.93,AS134238,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+59.63.188.45,AS134238,7,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+106.225.216.154,AS134238,7,chinatelecom.cn,Invalid,timed out
+59.63.189.21,AS134238,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+59.63.166.56,AS134238,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+59.63.189.85,AS134238,7,chinatelecom.cn,Invalid,timed out
+59.63.188.244,AS134238,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.153.12.113,AS134420,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+42.202.146.196,AS134762,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.172.154.85,AS134764,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.173.109.105,AS134764,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.172.154.41,AS134764,1,chinatelecom.cn,Invalid,timed out
+124.172.154.191,AS134764,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.172.153.42,AS134764,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.172.152.160,AS134764,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.172.153.36,AS134764,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.240.158.58,AS134771,10,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+43.240.158.169,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.69.165,AS134771,17,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.240.72.193,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.85.205,AS134771,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.228.193.56,AS134771,17,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.36.165.93,AS134771,7,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.193.123,AS134771,7,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.244.209,AS134771,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.228.86.234,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+43.241.19.152,AS134771,10,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.86.246,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.85.64,AS134771,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.36.62.212,AS134771,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.164.154.166,AS134771,7,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+43.240.75.148,AS134771,7,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.85.24,AS134771,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.228.86.197,AS134771,10,chinatelecom.cn,Invalid,timed out
+122.228.244.228,AS134771,17,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.240.156.79,AS134771,17,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.240.72.177,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+43.241.19.224,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+43.241.19.142,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+61.164.154.20,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+61.164.109.67,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+43.240.156.179,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.216.29,AS134771,10,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.69.222,AS134771,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.36.62.223,AS134771,17,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.228.64.51,AS134771,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.228.86.254,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.255.97,AS134771,17,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.228.216.2,AS134771,10,chinatelecom.cn,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+122.228.236.123,AS134771,10,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+211.147.246.81,AS134773,2,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+211.155.24.56,AS134773,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.155.24.142,AS134773,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.155.24.224,AS134773,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.155.24.175,AS134773,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.137.215.192,AS134810,2,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+211.137.215.14,AS134810,2,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+211.137.215.51,AS134810,2,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+211.137.215.242,AS134810,1,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+211.137.217.59,AS134810,2,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+189.204.6.251,AS13591,1,metrored.com.mx,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+110.42.100.121,AS136188,3,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+110.42.7.14,AS136188,3,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+110.42.7.111,AS136188,5,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+110.42.7.98,AS136188,5,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+110.42.2.197,AS136188,5,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+110.42.101.26,AS136188,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.42.2.122,AS136188,2,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+110.42.2.98,AS136188,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.42.100.117,AS136188,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.42.2.75,AS136188,5,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+180.188.24.43,AS136190,2,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+122.226.182.200,AS136190,4,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+183.134.19.33,AS136190,2,chinatelecom.cn,Invalid,timed out
+183.134.26.129,AS136190,4,chinatelecom.cn,Invalid,timed out
+183.134.25.163,AS136190,4,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.246.181,AS136190,4,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.172.244.209,AS136200,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.173.145.179,AS136200,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.172.244.110,AS136200,2,chinatelecom.cn,Invalid,timed out
+124.172.244.254,AS136200,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.94.206.156,AS136291,1,mpsedc.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+218.65.178.230,AS137693,3,nn.gx.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.65.178.172,AS137693,3,nn.gx.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.65.178.140,AS137693,3,nn.gx.cn,Invalid,timed out
+218.65.178.195,AS137693,3,nn.gx.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.65.178.128,AS137693,3,nn.gx.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.65.178.97,AS137693,3,nn.gx.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.216.155.134,AS137697,3,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+103.216.155.117,AS137697,2,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+180.97.183.58,AS137697,2,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+45.248.11.16,AS137697,3,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+103.216.155.83,AS137697,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.231.140.184,AS137702,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.102.86.192,AS137702,1,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+103.117.221.209,AS137788,1,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.117.220.33,AS137788,1,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.36.174.110,AS138421,1,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.36.174.70,AS138421,1,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.21.117.27,AS138950,4,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.21.117.223,AS138950,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.254.54.243,AS138950,4,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.254.54.245,AS138950,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.254.53.31,AS138950,7,chinatelecom.cn,Invalid,timed out
+103.21.118.66,AS138950,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.21.116.64,AS138950,4,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.21.117.2,AS138950,4,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+103.21.116.220,AS138950,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.40.235.249,AS138950,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.254.54.228,AS138950,7,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.254.55.238,AS138950,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.254.53.98,AS138950,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.254.53.75,AS138950,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.21.116.151,AS138950,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.21.118.90,AS138950,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.194.91,AS139007,7,hh.nm.cn,Invalid,[Errno 104] Connection reset by peer
+103.193.193.118,AS139007,7,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.192.68,AS139007,5,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+45.125.56.244,AS139007,5,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.190.131,AS139007,7,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.192.36,AS139007,5,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.189.143,AS139007,5,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+45.125.58.80,AS139007,7,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.193.214,AS139007,7,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+45.125.58.20,AS139007,5,hh.nm.cn,Invalid,[Errno 104] Connection reset by peer
+45.125.57.204,AS139007,7,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.189.81,AS139007,8,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.195.69,AS139007,8,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.189.249,AS139007,8,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.192.114,AS139007,8,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+45.125.58.109,AS139007,8,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.194.119,AS139007,8,hh.nm.cn,Invalid,[Errno 104] Connection reset by peer
+45.125.57.80,AS139007,8,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.194.57,AS139007,8,hh.nm.cn,Invalid,[Errno 104] Connection reset by peer
+103.193.190.157,AS139007,7,hh.nm.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.103.201.173,AS139019,1,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+103.103.201.64,AS139019,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.45.33.136,AS139080,1,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+61.155.160.135,AS140292,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.97.151.8,AS140292,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+120.132.17.149,AS140292,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+120.132.17.11,AS140292,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+120.132.31.88,AS140292,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.155.146.96,AS140292,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.97.201.16,AS140292,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.155.209.254,AS140292,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.141.118.100,AS140525,1,gigalinkhk.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+138.197.67.79,AS14061,1,digitalocean.com,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+220.248.231.131,AS140726,1,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+103.155.26.28,AS141057,1,fifacorp.co.id,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.155.26.28'. (_ssl.c:1007)"
+117.72.72.99,AS141679,1,chinatelecom.cn,Invalid,timed out
+117.72.65.112,AS141679,1,chinatelecom.cn,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '117.72.65.112'. (_ssl.c:1007)"
+111.173.105.195,AS148981,1,ct1000.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '111.173.105.195'. (_ssl.c:1007)"
+27.25.159.111,AS148981,1,ct1000.com,Invalid,_ssl.c:990: The handshake operation timed out
+103.193.147.157,AS150986,1,altafocus.id,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.193.147.157'. (_ssl.c:1007)"
+69.80.32.119,AS15344,1,discoverflow.co,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+212.152.74.34,AS15617,1,nova.gr,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+213.187.77.106,AS16097,1,pyur.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+54.37.234.80,AS16276,1,ovhcloud.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '54.37.234.80'. (_ssl.c:1007)"
+52.210.78.254,AS16509,1,amazon.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+43.201.15.235,AS16509,3,amazon.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+52.33.232.219,AS16509,3,amazon.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '52.33.232.219'. (_ssl.c:1007)"
+15.152.31.29,AS16509,1,amazon.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+3.22.227.174,AS16509,3,amazon.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '3.22.227.174'. (_ssl.c:1007)"
+136.60.224.134,AS16591,1,gfiber.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+58.30.239.51,AS17429,1,bgctv.com.cn,Invalid,[Errno 104] Connection reset by peer
+140.207.160.156,AS17621,1,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+210.21.105.170,AS17622,1,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.95.250.7,AS17623,1,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+126.113.237.30,AS17676,1,softbank.jp,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+103.124.191.106,AS17995,8,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.124.190.123,AS17995,7,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+124.158.155.197,AS17995,7,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.127.9.190,AS17995,9,iforte.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+182.16.184.138,AS17995,9,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.124.229.132,AS17995,9,iforte.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.127.10.164,AS17995,7,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.157.115.194,AS17995,9,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.157.115.123,AS17995,9,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.157.115.219,AS17995,9,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.124.189.101,AS17995,7,iforte.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.127.10.163,AS17995,9,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.125.7.125,AS17995,8,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.124.189.99,AS17995,9,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+182.16.190.147,AS17995,8,iforte.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.127.55.187,AS17995,9,iforte.co.id,Invalid,timed out
+182.16.187.228,AS17995,7,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.124.231.12,AS17995,8,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.125.11.68,AS17995,7,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+124.158.155.59,AS17995,8,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+182.16.190.182,AS17995,8,iforte.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.157.115.106,AS17995,8,iforte.co.id,Invalid,[Errno 104] Connection reset by peer
+103.125.5.222,AS17995,8,iforte.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+182.16.189.125,AS17995,7,iforte.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+136.24.1.48,AS19165,1,webpass.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+80.84.146.176,AS198394,1,yahsat.ae,Invalid,_ssl.c:990: The handshake operation timed out
+185.62.227.31,AS200780,1,appliwave.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+47.24.76.89,AS20115,1,charter.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+71.86.208.124,AS20115,1,charter.com,Invalid,timed out
+185.123.192.206,AS203791,1,avantnet.ru,Invalid,_ssl.c:990: The handshake operation timed out
+185.228.168.132,AS205157,2,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.132'. (_ssl.c:1007)"
+185.228.168.17,AS205157,4,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.17'. (_ssl.c:1007)"
+185.228.170.137,AS205157,4,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.170.137'. (_ssl.c:1007)"
+185.228.169.59,AS205157,4,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.169.59'. (_ssl.c:1007)"
+185.228.168.171,AS205157,2,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.171'. (_ssl.c:1007)"
+185.228.168.52,AS205157,3,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.52'. (_ssl.c:1007)"
+185.228.170.60,AS205157,3,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.170.60'. (_ssl.c:1007)"
+185.228.168.44,AS205157,3,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.168.44'. (_ssl.c:1007)"
+185.228.169.24,AS205157,4,danielselectric.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '185.228.169.24'. (_ssl.c:1007)"
+151.244.95.227,AS205647,1,rasana.net,Invalid,timed out
+41.193.254.130,AS206283,1,yahsat.ae,Invalid,[Errno 104] Connection reset by peer
+102.68.48.147,AS206283,1,yahsat.ae,Invalid,_ssl.c:990: The handshake operation timed out
+38.10.69.49,AS208972,1,gibir.net.tr,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '38.10.69.49'. (_ssl.c:1007)"
+87.107.172.102,AS212063,1,serverclick.com,Invalid,timed out
+64.127.158.188,AS21782,1,plateautel.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+64.90.154.136,AS21782,1,plateautel.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+74.124.52.242,AS22442,1,phonoscope.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+205.234.39.57,AS22573,1,nwtel.ca,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+170.205.182.81,AS22646,1,hargray.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+173.231.109.51,AS22652,1,fibrenoire.ca,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+187.190.75.80,AS22884,1,totalplay.com.mx,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+43.248.137.45,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.128.111,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.98.238,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.97.215,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.133.138,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.96.169,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.137.25,AS23650,9,rtat.net,Invalid,[Errno 104] Connection reset by peer
+103.85.84.22,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.136.148,AS23650,8,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.134.182,AS23650,8,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.133.22,AS23650,8,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.138.155,AS23650,8,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+103.85.84.43,AS23650,8,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.137.169,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.139.109,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.133.249,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.131.20,AS23650,8,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+118.184.252.99,AS23650,9,rtat.net,Invalid,[Errno 104] Connection reset by peer
+43.248.96.63,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.136.13,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+103.85.85.87,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.131.57,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+103.85.84.86,AS23650,8,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.100.93,AS23650,8,rtat.net,Invalid,timed out
+43.248.96.62,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.98.217,AS23650,9,rtat.net,Invalid,_ssl.c:990: The handshake operation timed out
+123.103.63.153,AS23724,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+42.62.11.114,AS23724,2,chinatelecom.cn,Invalid,timed out
+123.59.232.227,AS23724,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+119.18.194.31,AS23724,5,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+110.43.212.192,AS23724,5,chinatelecom.cn,Invalid,timed out
+123.59.232.149,AS23724,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.59.195.157,AS23724,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.59.195.181,AS23724,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.43.212.193,AS23724,5,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+123.59.195.200,AS23724,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.59.232.102,AS23724,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.59.232.109,AS23724,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.123.24.165,AS23889,1,telecom.mu,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+120.72.85.164,AS24085,1,qtsc.com.vn,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+223.99.1.143,AS24444,1,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+111.6.106.21,AS24445,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+111.6.106.204,AS24445,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+111.6.106.250,AS24445,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+111.6.106.93,AS24445,2,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+111.6.106.113,AS24445,2,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+117.159.203.7,AS24445,3,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+111.6.106.60,AS24445,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+111.6.106.119,AS24445,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+183.196.76.149,AS24547,1,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+183.196.76.155,AS24547,1,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+212.3.209.196,AS24921,1,lmt.lv,Invalid,_ssl.c:990: The handshake operation timed out
+212.3.217.74,AS24921,2,lmt.lv,Invalid,_ssl.c:990: The handshake operation timed out
+212.3.215.7,AS24921,2,lmt.lv,Invalid,_ssl.c:990: The handshake operation timed out
+78.109.199.79,AS25184,1,afranet.com,Invalid,timed out
+95.170.140.66,AS25549,1,avantel.ru,Invalid,[Errno 111] Connection refused
+82.117.65.6,AS25549,1,avantel.ru,Invalid,[Errno 111] Connection refused
+38.25.46.188,AS265691,1,win.pe,Invalid,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007)
+200.111.148.100,AS27651,1,entel.cl,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+186.1.180.149,AS27837,1,dialnet.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+190.6.141.235,AS28118,1,altice.com.do,Invalid,_ssl.c:990: The handshake operation timed out
+148.230.7.178,AS28438,1,redit.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+37.143.191.109,AS29056,1,citycom-austria.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+212.12.177.45,AS29684,1,nour.net.sa,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+41.175.4.52,AS30844,1,liquidtelecom.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '41.175.4.52'. (_ssl.c:1007)"
+94.182.169.254,AS31549,1,shatel.ir,Invalid,timed out
+94.182.145.173,AS31549,1,shatel.ir,Invalid,timed out
+138.3.243.96,AS31898,1,oracle.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '138.3.243.96'. (_ssl.c:1007)"
+148.230.5.226,AS32098,1,transtelco.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+201.174.175.43,AS32098,1,transtelco.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+38.70.200.215,AS32212,1,skyfiberinternet.com,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+217.29.212.252,AS328471,1,herotel.com,Invalid,[Errno 104] Connection reset by peer
+195.186.4.250,AS3303,1,swisscom.ch,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
+4.7.75.194,AS3356,1,lumen.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '4.7.75.194'. (_ssl.c:1007)"
+94.46.242.136,AS34244,1,teleservice.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+85.93.116.227,AS34315,1,quantcom.cz,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+211.20.117.199,AS3462,1,hinet.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+46.55.211.72,AS34841,1,balchik.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+85.9.100.84,AS34918,2,pishgaman.net,Invalid,timed out
+85.9.96.61,AS34918,2,pishgaman.net,Invalid,timed out
+45.90.28.22,AS34939,3,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.28.22'. (_ssl.c:1007)"
+45.90.29.225,AS34939,3,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.29.225'. (_ssl.c:1007)"
+45.90.28.180,AS34939,3,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.28.180'. (_ssl.c:1007)"
+45.90.31.66,AS34939,4,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.31.66'. (_ssl.c:1007)"
+45.90.29.95,AS34939,4,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.29.95'. (_ssl.c:1007)"
+45.90.31.220,AS34939,4,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.31.220'. (_ssl.c:1007)"
+45.90.29.82,AS34939,4,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.29.82'. (_ssl.c:1007)"
+45.90.29.33,AS34939,3,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.29.33'. (_ssl.c:1007)"
+45.90.31.11,AS34939,3,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.31.11'. (_ssl.c:1007)"
+45.90.30.35,AS34939,3,nextdns.io,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '45.90.30.35'. (_ssl.c:1007)"
+201.234.92.12,AS3549,1,lumen.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+104.225.112.235,AS36236,1,netactuate.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '104.225.112.235'. (_ssl.c:1007)"
+105.244.6.66,AS36994,1,vodacom.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+129.205.174.154,AS37353,1,macrolan.co.za,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+105.184.50.20,AS37457,1,telkom.co.za,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+59.252.192.34,AS37937,1,cei.gov.cn,Invalid,_ssl.c:990: The handshake operation timed out
+39.96.251.52,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.174.24,AS37963,73,alibabagroup.com,Invalid,timed out
+39.96.250.128,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.46.140,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.46.251,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.44.78,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.172.174,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.85.88,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.49.62,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.93.95.146,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.251.174,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.225.88,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.174.52,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+112.124.157.121,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.216.4,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.249.229,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.59.158,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.81.195,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.40.43,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.236.84,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.107.197.88,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.126.30,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.96.193.187,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.245.31,AS37963,73,alibabagroup.com,Invalid,timed out
+47.113.22.33,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.93.92.38,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.74.194,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.243.67,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.252.182,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.248.135,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.244.7,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.96.194.208,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.21.157,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.45.17,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.238.81,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.59.229,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.54.178,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.4.221.28,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.50.51,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.203.204,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.22.1,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.248.105,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.62.111,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.172.224,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+59.110.246.143,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.83.40,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.96.193.209,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.86.149,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.56.19,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.5.227.124,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.173.113,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.216.63,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.93.95.114,AS37963,96,alibabagroup.com,Invalid,timed out
+8.146.244.141,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.23.158,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.46.217,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.245.236,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.236.225,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.79.12,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.93.94.230,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.74.27,AS37963,96,alibabagroup.com,Invalid,timed out
+119.23.87.193,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.251.27,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.96.196.140,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.53.217,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.173.253,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.214.133,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.24.17,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.238.93,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.4.222.203,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.238.126,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.86.217,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.214.63,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.128.44,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.96.196.16,AS37963,96,alibabagroup.com,Invalid,timed out
+8.139.74.137,AS37963,96,alibabagroup.com,Invalid,timed out
+8.146.203.101,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.47.19,AS37963,96,alibabagroup.com,Invalid,timed out
+47.110.172.25,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.247.222,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.175.217,AS37963,96,alibabagroup.com,Invalid,timed out
+47.113.24.158,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.48.191,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+59.110.244.237,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.58.191,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.225.94,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.24.15,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.85.100,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.54.129,AS37963,96,alibabagroup.com,Invalid,timed out
+47.102.226.159,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.93.93.17,AS37963,96,alibabagroup.com,Invalid,_ssl.c:990: The handshake operation timed out
+47.110.172.178,AS37963,96,alibabagroup.com,Invalid,timed out
+8.139.45.178,AS37963,96,alibabagroup.com,Invalid,timed out
+47.93.95.70,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.175.112,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.48.134,AS37963,96,alibabagroup.com,Invalid,_ssl.c:990: The handshake operation timed out
+47.101.237.7,AS37963,96,alibabagroup.com,Invalid,timed out
+47.113.24.161,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.242.152,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.247.84,AS37963,82,alibabagroup.com,Invalid,timed out
+114.55.26.68,AS37963,73,alibabagroup.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '114.55.26.68'. (_ssl.c:1007)"
+47.93.93.182,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.86.66,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.225.214,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.46.18,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.83.169,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.5.211.86,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.237.46,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.42.244,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.246.105,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.51.170,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.127.63,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.251.84,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.5.211.194,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.44.174,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.172.193,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.173.85,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.4.222.244,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.107.195.172,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.226.84,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.96.194.20,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.174.146,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.215.88,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.45.251,AS37963,73,alibabagroup.com,Invalid,timed out
+39.107.197.103,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+112.124.157.108,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.43.250,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.57.59,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.45.208,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.48.243,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.82.37,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.73.203,AS37963,82,alibabagroup.com,Invalid,_ssl.c:990: The handshake operation timed out
+8.146.244.106,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.174.229,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.242.165,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.58.80,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+121.199.83.169,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.93.93.115,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+110.75.173.197,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.173.131,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.134.216.90,AS37963,73,alibabagroup.com,Invalid,_ssl.c:990: The handshake operation timed out
+47.93.92.19,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.81.105,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.72.50,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.85.35,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.86.42,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.42.89,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.250.112,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.251.84,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+59.110.244.80,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.62.91,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.251.88,AS37963,82,alibabagroup.com,Invalid,timed out
+39.96.129.166,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.47.152,AS37963,82,alibabagroup.com,Invalid,timed out
+39.96.252.100,AS37963,82,alibabagroup.com,Invalid,timed out
+47.110.175.208,AS37963,82,alibabagroup.com,Invalid,timed out
+223.4.221.31,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.40.64,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.174.16,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.21.61,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.224.42,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.5.227.88,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.62.90,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.109.99.54,AS37963,73,alibabagroup.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+47.102.224.156,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+60.205.172.148,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+110.75.173.121,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.86.153,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.251.43,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.46.160,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+110.75.173.26,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.246.216,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.72.200,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.227.120,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.83.54,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.251.203,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.82.9,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.243.135,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.238.90,AS37963,82,alibabagroup.com,Invalid,timed out
+8.139.72.171,AS37963,82,alibabagroup.com,Invalid,_ssl.c:990: The handshake operation timed out
+39.96.250.230,AS37963,82,alibabagroup.com,Invalid,timed out
+60.205.172.171,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.249.73,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.58.49,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.244.251,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.248.36,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.226.153,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.44.239,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.172.163,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.244.246,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.243.147,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.74.198,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.55.111,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.107.196.237,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.87.107,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.129.147,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.45.169,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.242.223,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+101.37.43.149,AS37963,73,alibabagroup.com,Invalid,timed out
+59.110.245.187,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.216.193,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.21.102,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.214.198,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.251.171,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.83.231,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.174.12,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.53.124,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.93.94.12,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.96.195.205,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.237.137,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.236.172,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.217.180,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.80.3,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.247.9,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.107.197.139,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.252.89,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.252.85,AS37963,82,alibabagroup.com,Invalid,timed out
+8.139.55.82,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.54.59,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.80.166,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+59.110.244.128,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+119.23.87.85,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.50.252,AS37963,82,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.107.197.243,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.50.180,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+121.199.82.29,AS37963,73,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.227.187,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.101.237.73,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.126.130,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.57.22,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.73.253,AS37963,96,alibabagroup.com,Invalid,timed out
+8.139.49.149,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+112.124.157.49,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.23.107,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.240.103,AS37963,96,alibabagroup.com,Invalid,timed out
+8.139.80.95,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.246.100,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.110.217.107,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.203.81,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.250.161,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.244.110,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.5.211.31,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.96.127.253,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.102.226.28,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+110.75.173.110,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.245.49,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.146.243.75,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+223.5.179.62,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+39.107.197.137,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+8.139.79.144,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+47.113.23.250,AS37963,96,alibabagroup.com,Invalid,[Errno 104] Connection reset by peer
+125.64.43.60,AS38283,6,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.40.31.189,AS38283,6,chinatelecom.cn,Invalid,timed out
+221.236.15.120,AS38283,6,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+110.40.25.69,AS38283,6,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+125.64.5.61,AS38283,6,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+125.64.11.151,AS38283,6,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.40.31.180,AS38283,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+182.140.197.60,AS38283,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+182.150.0.48,AS38283,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+182.140.221.184,AS38283,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.40.25.91,AS38283,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.40.20.79,AS38283,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+182.150.0.106,AS38283,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+110.40.21.22,AS38283,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.68.248.239,AS38700,1,smileserv.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '115.68.248.239'. (_ssl.c:1007)"
+185.211.58.85,AS39368,1,server.ir,Invalid,[Errno 111] Connection refused
+185.65.29.26,AS39567,1,md6.fr,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+176.125.239.248,AS398962,4,controld.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '176.125.239.248'. (_ssl.c:1007)"
+76.76.10.25,AS398962,4,controld.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.10.25'. (_ssl.c:1007)"
+76.76.2.166,AS398962,4,controld.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.2.166'. (_ssl.c:1007)"
+76.76.2.239,AS398962,3,controld.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.2.239'. (_ssl.c:1007)"
+176.125.239.238,AS398962,3,controld.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '176.125.239.238'. (_ssl.c:1007)"
+76.76.2.44,AS398962,3,controld.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.2.44'. (_ssl.c:1007)"
+76.76.2.189,AS398962,4,controld.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '76.76.2.189'. (_ssl.c:1007)"
+149.248.218.144,AS40509,1,fly.io,Invalid,_ssl.c:990: The handshake operation timed out
+98.158.107.176,AS41095,1,iptp.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '98.158.107.176'. (_ssl.c:1007)"
+61.174.50.19,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.148.90,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+59.40.185.55,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.136.241,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+121.236.214.157,AS4134,50,chinatelecom.com.cn,Invalid,[Errno 113] No route to host
+222.186.59.59,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+182.242.226.151,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+121.236.214.147,AS4134,50,chinatelecom.com.cn,Invalid,[Errno 113] No route to host
+124.225.88.165,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+119.0.101.73,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.174.60.175,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.226.191.145,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.196.184,AS4134,50,chinatelecom.com.cn,Invalid,timed out
+61.142.248.67,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+59.175.169.111,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.231.6.54,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+60.173.251.125,AS4134,50,chinatelecom.com.cn,Invalid,timed out
+220.178.97.102,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+121.231.38.108,AS4134,50,chinatelecom.com.cn,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '121.231.38.108'. (_ssl.c:1007)"
+58.221.49.43,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.178.83.34,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.248.60,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.155.22.115,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+118.122.215.97,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+118.121.27.24,AS4134,57,chinatelecom.com.cn,Invalid,timed out
+222.186.174.155,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+117.36.58.251,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+36.111.137.199,AS4134,50,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+117.36.58.47,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.100.226.195,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.178.124.239,AS4134,50,chinatelecom.com.cn,Invalid,timed out
+122.226.189.179,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.248.202,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+118.123.12.8,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.247.210,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+36.111.137.182,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+119.41.173.121,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+121.236.214.249,AS4134,50,chinatelecom.com.cn,Invalid,[Errno 113] No route to host
+124.225.80.88,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.221.42.107,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+117.71.54.154,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 113] No route to host
+115.238.244.157,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.221.57.183,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+61.174.50.179,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.221.42.77,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.178.69.231,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.17.20.11,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.221.29.66,AS4134,46,chinatelecom.com.cn,Invalid,timed out
+61.155.22.111,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+125.67.201.179,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.248.54,AS4134,46,chinatelecom.com.cn,Invalid,timed out
+219.148.179.20,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.100.40.239,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+183.129.146.181,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.155.22.115,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+220.178.124.209,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+113.12.121.53,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+117.36.58.125,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.180.57.131,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.225.88.217,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.117.131.161,AS4134,57,chinatelecom.com.cn,Invalid,timed out
+113.87.174.164,AS4134,46,chinatelecom.com.cn,Invalid,timed out
+139.206.156.38,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 111] Connection refused
+219.147.85.215,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+180.101.160.12,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+118.123.12.94,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.174.59.49,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.59.117,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.85.67.185,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+222.186.148.70,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.139.253,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.178.124.56,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+113.113.81.34,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.168.32.233,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.252.70,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.170.32,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.59.107,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.180.57.151,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.90.200.3,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+1.180.174.246,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.164.244.216,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.160.201.92,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.148.179.63,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.170.86,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.132.230.66,AS4134,50,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+122.226.191.77,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.251.176,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.49.84.22,AS4134,57,chinatelecom.com.cn,Invalid,timed out
+106.119.196.49,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.132.228.178,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+49.74.127.23,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.174.63.85,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.164.248.241,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.97.224.248,AS4134,50,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+221.231.6.63,AS4134,50,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+202.100.40.92,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+113.113.80.61,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.59.122,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+118.122.215.87,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+119.145.128.122,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.168.32.45,AS4134,50,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+58.210.114.2,AS4134,46,chinatelecom.com.cn,Invalid,[Errno 113] No route to host
+119.145.128.63,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.160.3.37,AS4134,46,chinatelecom.com.cn,Invalid,timed out
+222.186.150.101,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.244.150,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.93.54.214,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.61.205,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+119.0.127.111,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+119.41.173.47,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.56.53.82,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.238.252.176,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.148.79,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.160.233.86,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.180.57.243,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+183.134.23.92,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.5.84.196,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.13.33.126,AS4134,50,chinatelecom.com.cn,Invalid,timed out
+115.238.252.15,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.147.114.7,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+115.238.250.231,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+49.77.204.37,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+1.180.174.220,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.180.57.158,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.133.142.80,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.180.57.42,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.147.85.192,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+121.9.250.61,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+118.122.215.241,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.59.59,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.160.233.109,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+180.97.224.7,AS4134,57,chinatelecom.com.cn,Invalid,timed out
+121.236.214.195,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 113] No route to host
+219.137.33.172,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 113] No route to host
+219.145.89.74,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+119.0.101.76,AS4134,50,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.63.144,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.53.128.217,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.101.160.69,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+61.174.63.173,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+220.168.32.173,AS4134,57,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+122.226.166.96,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.6.151.32,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.224.3.30,AS4134,57,chinatelecom.com.cn,Invalid,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007)
+220.178.124.161,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.139.235,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.186.170.110,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.188.79.76,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.210.227.102,AS4134,57,chinatelecom.com.cn,Invalid,timed out
+222.186.160.169,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.215.62.112,AS4134,57,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.100.40.17,AS4134,46,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+125.66.27.115,AS4134,57,chinatelecom.com.cn,Invalid,timed out
+5.160.157.254,AS42337,1,respina.net,Invalid,timed out
+81.12.96.10,AS42337,1,respina.net,Invalid,timed out
+109.74.12.20,AS42708,1,glesys.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '109.74.12.20'. (_ssl.c:1007)"
+193.134.100.184,AS43754,1,asiatech.ir,Invalid,timed out
+129.28.248.243,AS45090,3,tencent.com,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+109.244.81.107,AS45090,1,tencent.com,Invalid,[Errno 104] Connection reset by peer
+119.45.239.152,AS45090,5,tencent.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+106.54.166.238,AS45090,5,tencent.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '106.54.166.238'. (_ssl.c:1007)"
+114.117.131.249,AS45090,5,tencent.com,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+129.28.248.129,AS45090,3,tencent.com,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+42.193.72.89,AS45090,3,tencent.com,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+42.193.82.154,AS45090,5,tencent.com,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+114.117.141.99,AS45090,5,tencent.com,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+27.54.183.236,AS45117,1,ishanitech.biz,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+115.155.177.253,AS4538,35,cernet.edu.cn,Invalid,timed out
+210.26.77.137,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.185.145,AS4538,35,cernet.edu.cn,Invalid,timed out
+211.83.5.224,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.121.103.187,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+202.121.109.192,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+211.80.146.76,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.121.111.130,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+210.26.77.183,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.189.87,AS4538,35,cernet.edu.cn,Invalid,timed out
+210.26.77.9,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.201.101.33,AS4538,35,cernet.edu.cn,Invalid,timed out
+180.201.97.27,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.182.99,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.185.153,AS4538,35,cernet.edu.cn,Invalid,timed out
+211.83.8.212,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.182.107,AS4538,35,cernet.edu.cn,Invalid,timed out
+210.26.78.117,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.201.101.78,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.180.204,AS4538,35,cernet.edu.cn,Invalid,timed out
+202.121.99.141,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+210.26.79.185,AS4538,35,cernet.edu.cn,Invalid,timed out
+202.121.111.199,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+115.155.179.85,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.83.5.225,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.205.158.75,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.83.0.31,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.189.223,AS4538,35,cernet.edu.cn,Invalid,timed out
+180.201.99.187,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.182.133,AS4538,35,cernet.edu.cn,Invalid,timed out
+202.121.98.196,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+115.155.184.94,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.182.39,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.83.6.104,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.184.136,AS4538,35,cernet.edu.cn,Invalid,timed out
+211.64.164.140,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+115.155.190.26,AS4538,35,cernet.edu.cn,Invalid,timed out
+211.64.164.9,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+202.121.111.7,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+210.26.75.9,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.201.98.134,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.26.79.64,AS4538,37,cernet.edu.cn,Invalid,timed out
+115.155.181.214,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.177.255,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.176.229,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.184.19,AS4538,35,cernet.edu.cn,Invalid,timed out
+180.201.99.29,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.181.107,AS4538,35,cernet.edu.cn,Invalid,timed out
+180.201.96.239,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.83.8.137,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.191.84,AS4538,37,cernet.edu.cn,Invalid,timed out
+202.121.101.171,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+211.64.161.176,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+202.121.109.97,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+210.26.76.19,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.188.229,AS4538,35,cernet.edu.cn,Invalid,timed out
+211.64.175.220,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+115.155.180.241,AS4538,35,cernet.edu.cn,Invalid,timed out
+202.205.158.140,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.26.72.126,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.179.239,AS4538,35,cernet.edu.cn,Invalid,timed out
+202.121.97.108,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+202.121.97.44,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+211.83.10.96,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.178.210,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.26.78.55,AS4538,37,cernet.edu.cn,Invalid,timed out
+115.155.176.18,AS4538,37,cernet.edu.cn,Invalid,timed out
+115.155.185.33,AS4538,37,cernet.edu.cn,Invalid,[Errno 113] No route to host
+223.129.252.7,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.121.102.151,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+115.155.184.114,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.121.110.190,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+211.86.1.77,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.121.108.166,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+210.26.77.46,AS4538,37,cernet.edu.cn,Invalid,timed out
+115.155.178.176,AS4538,37,cernet.edu.cn,Invalid,timed out
+202.121.99.58,AS4538,37,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+180.201.102.231,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.26.72.69,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.201.98.221,AS4538,37,cernet.edu.cn,Invalid,timed out
+211.83.8.253,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.187.204,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.201.96.44,AS4538,37,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+125.222.107.215,AS4538,37,cernet.edu.cn,Invalid,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007)
+180.201.101.199,AS4538,37,cernet.edu.cn,Invalid,timed out
+211.86.1.98,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.187.252,AS4538,35,cernet.edu.cn,Invalid,timed out
+211.83.5.127,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+202.121.111.92,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+202.121.101.53,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+210.26.78.1,AS4538,35,cernet.edu.cn,Invalid,timed out
+210.26.77.30,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.180.156,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.201.110.72,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.180.11,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.179.112,AS4538,35,cernet.edu.cn,Invalid,timed out
+202.205.158.139,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.190.31,AS4538,35,cernet.edu.cn,Invalid,timed out
+210.26.77.48,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.184.99,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.83.1.235,AS4538,35,cernet.edu.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.155.190.202,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.184.47,AS4538,35,cernet.edu.cn,Invalid,timed out
+115.155.176.14,AS4538,35,cernet.edu.cn,Invalid,timed out
+202.121.99.192,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+211.64.175.113,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+202.121.101.146,AS4538,35,cernet.edu.cn,Invalid,[Errno 104] Connection reset by peer
+14.195.37.247,AS45820,1,tatatelebusiness.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+14.195.37.243,AS45820,1,tatatelebusiness.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+23.93.21.254,AS46375,1,sonic.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+118.9.105.18,AS4713,2,ntt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+58.94.213.9,AS4713,2,ntt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+153.135.114.148,AS4713,1,ntt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+103.215.222.91,AS47376,1,ground.ir,Invalid,timed out
+42.2.101.117,AS4760,2,netvigator.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+218.103.158.151,AS4760,2,netvigator.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+222.103.167.201,AS4766,6,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+210.103.70.68,AS4766,6,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+220.85.141.106,AS4766,6,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+183.96.70.110,AS4766,6,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+118.46.39.68,AS4766,6,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+121.142.215.177,AS4766,3,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+121.177.49.252,AS4766,4,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+125.138.116.146,AS4766,3,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+14.32.150.131,AS4766,4,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+211.192.64.44,AS4766,4,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+121.172.225.130,AS4766,4,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+121.129.13.108,AS4766,3,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+121.134.252.104,AS4766,6,kt.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+83.137.113.135,AS47692,1,nessus.at,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '83.137.113.135'. (_ssl.c:1007)"
+23.29.153.186,AS47869,1,colohouse.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+114.255.165.223,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.134.71,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.103.242.172,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.113.245.128,AS4808,15,chinaunicom.cn,Invalid,[Errno 111] Connection refused
+114.255.165.102,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.202.53.33,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.133.217,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.103.242.53,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.202.53.37,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.133.8,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.12.60.12,AS4808,16,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+123.125.247.157,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.247.84.134,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.247.84.89,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.103.242.10,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.127.221.93,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.125.247.134,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.135.104,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.255.165.113,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.247.84.139,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.202.53.9,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.103.243.105,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.103.243.189,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.103.242.129,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.251.33.97,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.255.165.31,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.134.162,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.255.165.53,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.134.29,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.135.135,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.251.204.38,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.251.8.227,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.17.42.111,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.207.164.86,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.103.229.41,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.247.84.28,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.124.208.59,AS4808,15,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+211.103.242.149,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.134.60,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.122.83.11,AS4808,15,chinaunicom.cn,Invalid,timed out
+124.205.4.108,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.207.215.78,AS4808,16,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.207.132.124,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.148.148.14,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.206.134.176,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.13.249.191,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.251.8.239,AS4808,15,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.62.64,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.188.170,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.52.6,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.33.178,AS4811,25,chinatelecom.com.cn,Invalid,timed out
+210.16.189.193,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.54.254,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.36.176,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.35.251,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.41.191,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.46.102,AS4811,15,chinatelecom.com.cn,Invalid,timed out
+211.152.36.98,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.47.122,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.36.114,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.39.127,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.38.132,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.41.125,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.187.241,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.60.165,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.44.9,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.189.105,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.21.141.49,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.43.123,AS4811,15,chinatelecom.com.cn,Invalid,timed out
+211.152.59.246,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.49.133,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.47.217,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.41.219,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.35.105,AS4811,25,chinatelecom.com.cn,Invalid,timed out
+211.152.52.74,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.44.76,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.59.207,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.41.90,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.55.225,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.44.182,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.36.162,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.53.124,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.51.131,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.61.7,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.38.107,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.53.72,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.38.166,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.32.145,AS4811,25,chinatelecom.com.cn,Invalid,timed out
+210.16.190.147,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+119.37.2.91,AS4811,25,chinatelecom.com.cn,Invalid,timed out
+211.152.33.179,AS4811,15,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.34.75,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.49.235,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.52.149,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.33.146,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.21.140.13,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.55.193,AS4811,25,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+211.152.47.229,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.59.192,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.188.161,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.37.141,AS4811,25,chinatelecom.com.cn,Invalid,timed out
+211.152.53.92,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.59.185,AS4811,25,chinatelecom.com.cn,Invalid,timed out
+211.152.47.197,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.51.100,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.45.43,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.41.33,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.52.238,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.36.22,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.152.37.232,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.188.53,AS4811,25,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.188.131,AS4811,25,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+222.73.135.102,AS4812,7,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.180.227,AS4812,7,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+222.73.22.222,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.73.129.163,AS4812,8,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.73.17.97,AS4812,8,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.242.96.74,AS4812,8,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.162.222.166,AS4812,8,chinatelecom.com.cn,Invalid,[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+61.169.131.245,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.180.53,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.168.250.46,AS4812,13,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+222.73.201.48,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.80.208.172,AS4812,13,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+180.153.90.234,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.236.212.148,AS4812,13,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+222.73.129.216,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.73.135.24,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.73.201.41,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+101.226.179.144,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.80.156.56,AS4812,13,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.73.48.161,AS4812,8,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+114.94.49.82,AS4812,8,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.16.185.156,AS4812,8,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+101.226.179.187,AS4812,8,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+180.168.250.81,AS4812,7,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+43.242.96.88,AS4812,7,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+180.169.17.95,AS4812,7,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.73.135.12,AS4812,7,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+222.73.201.0,AS4812,7,chinatelecom.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+188.136.155.86,AS48309,1,spadana.net,Invalid,timed out
+125.76.249.18,AS4835,1,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+117.34.25.34,AS4835,1,chinatelecom.com.cn,Invalid,[Errno 104] Connection reset by peer
+218.29.188.214,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.12.54.196,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.188.60,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+121.18.238.2,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+60.12.121.184,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.29.54.53,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.29.188.60,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+60.12.69.239,AS4837,21,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+61.167.245.168,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.194.44.234,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.6.102.47,AS4837,21,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+101.67.12.143,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.56.60.241,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+119.164.227.226,AS4837,21,chinaunicom.cn,Invalid,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007)
+122.114.206.67,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.181.205.10,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.114.21.246,AS4837,21,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+123.233.117.50,AS4837,21,chinaunicom.cn,Invalid,timed out
+122.114.177.247,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.192.23.35,AS4837,21,chinaunicom.cn,Invalid,timed out
+221.8.67.193,AS4837,21,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.190.170,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.161.245.46,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+60.12.109.92,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+27.223.70.99,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+101.67.14.234,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.161.245.170,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.29.54.177,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+182.120.179.54,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+125.211.207.226,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.192.23.16,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+61.181.205.58,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.8.67.55,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.246.152.133,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.28.204.227,AS4837,25,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+221.7.196.204,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.133.84.31,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.133.84.253,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.133.84.255,AS4837,25,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+116.113.108.242,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.129.196.7,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+45.250.34.76,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.194.44.129,AS4837,25,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+218.29.188.87,AS4837,25,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+122.114.21.125,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.114.177.183,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.213.37.227,AS4837,25,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.114.78.165,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.56.61.235,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+43.248.190.81,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.192.20.23,AS4837,19,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+122.114.177.172,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+122.114.75.191,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.255.252.25,AS4837,19,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+123.6.102.207,AS4837,19,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+58.240.32.115,AS4837,19,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+122.114.21.38,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.192.191.48,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+101.67.12.244,AS4837,19,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+123.133.84.90,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+101.67.14.238,AS4837,19,chinaunicom.cn,Invalid,[Errno 104] Connection reset by peer
+218.29.54.10,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+125.211.207.3,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+221.213.37.227,AS4837,19,chinaunicom.cn,Invalid,timed out
+116.255.252.34,AS4837,19,chinaunicom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+45.119.105.229,AS4847,7,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.143.73.229,AS4847,7,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.141.211.134,AS4847,7,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.59.151.31,AS4847,7,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.232.96.211,AS4847,7,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+106.120.129.70,AS4847,7,bta.net.cn,Invalid,[Errno 104] Connection reset by peer
+219.141.213.55,AS4847,7,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+106.120.245.136,AS4847,8,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.232.96.147,AS4847,4,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.59.148.133,AS4847,8,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.143.73.55,AS4847,8,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+1.202.129.184,AS4847,8,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+60.247.111.226,AS4847,8,bta.net.cn,Invalid,[Errno 104] Connection reset by peer
+219.143.73.131,AS4847,8,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+219.142.83.55,AS4847,8,bta.net.cn,Invalid,[Errno 104] Connection reset by peer
+103.59.148.70,AS4847,8,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.59.151.64,AS4847,4,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.59.149.168,AS4847,4,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+106.37.210.145,AS4847,4,bta.net.cn,Invalid,_ssl.c:990: The handshake operation timed out
+78.110.121.232,AS48715,2,shahrad.net,Invalid,timed out
+185.58.240.189,AS48715,2,shahrad.net,Invalid,timed out
+5.202.75.199,AS49100,1,pishgaman.net,Invalid,timed out
+81.59.121.180,AS50266,1,odido.nl,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '81.59.121.180'. (_ssl.c:1007)"
+185.137.25.74,AS51431,1,avabarid.com,Invalid,timed out
+89.235.78.43,AS51431,2,avabarid.com,Invalid,timed out
+185.137.27.44,AS51431,2,avabarid.com,Invalid,timed out
+46.36.107.9,AS51759,1,piroozonline.net,Invalid,timed out
+166.0.226.3,AS52112,1,gentlent.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '166.0.226.3'. (_ssl.c:1007)"
+147.28.128.245,AS54825,1,packet.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '147.28.128.245'. (_ssl.c:1007)"
+167.179.234.2,AS55423,1,jastel.co.th,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+115.244.174.46,AS55836,1,jio.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+121.37.12.255,AS55990,1,huaweicloud.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)
+1.94.22.159,AS55990,2,huaweicloud.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '1.94.22.159'. (_ssl.c:1007)"
+121.37.207.154,AS55990,2,huaweicloud.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+120.193.39.155,AS56041,4,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+45.250.40.54,AS56041,3,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+117.149.243.32,AS56041,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+120.199.142.112,AS56041,4,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+117.149.243.238,AS56041,2,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+112.13.218.110,AS56041,2,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+103.219.29.28,AS56041,4,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+117.148.131.16,AS56041,4,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+117.149.199.105,AS56041,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.108.230.140,AS56046,1,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+218.206.112.237,AS56046,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.108.230.48,AS56046,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.113.240.22,AS56046,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+36.153.216.236,AS56046,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+120.195.36.98,AS56046,3,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+183.207.181.184,AS56046,3,chinamobile.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '183.207.181.184'. (_ssl.c:1007)"
+223.72.140.10,AS56048,4,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.72.138.241,AS56048,1,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.72.139.141,AS56048,4,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.70.135.120,AS56048,4,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+183.242.254.215,AS56048,4,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.70.135.221,AS56048,4,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.72.138.101,AS56048,4,chinamobile.com,Invalid,[Errno 104] Connection reset by peer
+223.70.135.160,AS56048,4,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+223.72.140.135,AS56048,4,chinamobile.com,Invalid,_ssl.c:990: The handshake operation timed out
+5.68.119.199,AS5607,1,sky.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+194.225.24.64,AS56765,2,sbu.ac.ir,Invalid,timed out
+194.225.29.150,AS56765,2,sbu.ac.ir,Invalid,timed out
+62.60.178.250,AS57391,1,laser.ir,Invalid,timed out
+185.46.0.211,AS57391,1,laser.ir,Invalid,timed out
+84.47.235.163,AS58224,2,tci.ir,Invalid,timed out
+2.187.19.187,AS58224,2,tci.ir,Invalid,timed out
+111.235.160.40,AS58448,1,conac.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.235.161.124,AS58448,2,conac.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.235.160.2,AS58448,1,conac.cn,Invalid,_ssl.c:990: The handshake operation timed out
+111.235.161.99,AS58448,2,conac.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.65.161,AS58461,14,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+124.248.67.8,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+203.135.104.171,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.99.198.3,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.230.127.128,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.99.192.74,AS58461,14,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+115.227.7.158,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.69.83,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.99.198.50,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.99.198.41,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.67.58,AS58461,15,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+124.248.66.97,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.67.233,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.239.248.130,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.66.253,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.99.198.190,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+203.135.96.240,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+183.131.83.177,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.67.234,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+123.99.199.253,AS58461,15,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+124.248.66.156,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.239.248.228,AS58461,15,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.230.127.152,AS58461,15,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+203.135.100.91,AS58461,8,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+183.131.19.18,AS58461,8,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+183.134.60.189,AS58461,8,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.70.162,AS58461,8,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+115.230.124.124,AS58461,8,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+124.248.67.28,AS58461,8,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.69.8,AS58461,8,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+124.248.65.64,AS58461,8,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+115.230.124.78,AS58461,14,chinatelecom.cn,Invalid,timed out
+124.248.70.134,AS58461,14,chinatelecom.cn,Invalid,timed out
+183.131.83.68,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+124.248.67.55,AS58461,14,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+123.99.198.130,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+203.135.100.119,AS58461,14,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.41.232.229,AS58466,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.41.232.238,AS58466,2,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+42.81.52.2,AS58542,1,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+103.186.108.177,AS58543,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.186.109.115,AS58543,1,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.143.164,AS58563,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.148.243,AS58563,3,chinatelecom.cn,Invalid,timed out
+119.96.57.5,AS58563,3,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.49.151.188,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.145.228,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.49.151.104,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.143.91,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.148.191,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.49.146.203,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.228.159,AS58563,10,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+116.211.148.45,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.148.228,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.145.194,AS58563,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.142.100,AS58563,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+116.211.228.179,AS58563,5,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+58.49.146.31,AS58563,5,chinatelecom.cn,Invalid,[Errno 104] Connection reset by peer
+58.49.150.159,AS58563,5,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+58.49.146.206,AS58563,10,chinatelecom.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.42.79.244,AS59029,1,people.cn,Invalid,[Errno 104] Connection reset by peer
+193.151.153.19,AS60077,1,asiatech.ir,Invalid,timed out
+5.145.117.119,AS60423,1,mggsnet.com,Invalid,timed out
+171.22.26.66,AS60631,1,parspack.com,Invalid,timed out
+79.139.118.32,AS60782,1,inter-plus.eu,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+78.157.44.101,AS62442,1,fanavaidc.com,Invalid,timed out
+96.53.47.106,AS6327,1,shaw.ca,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+43.255.226.121,AS63548,1,lenovo.com,Invalid,[Errno 104] Connection reset by peer
+103.45.119.193,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.118.230,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.149.72,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.110.213,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.123.252,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.107.88,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.110.170,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.121.164,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.107.151,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.101.113,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.104.3,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.118.69,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.150.191,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.131.139,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.101.72,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.101.16,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.135.157,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.113.167,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.114.149,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.113.72,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.117.111,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.159.185,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.113.70,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.98.108,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.129.167,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.100.145,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.107.212,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.104.202,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.152.26,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.104.226,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.122.208,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.152.55,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.130.186,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.121.63,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.110.122,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.107.170,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.120.201,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.115.36,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.149.138,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.114.2,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.98.236,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.123.138,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.102.126,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.115.230,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.108.43,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.101.94,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.123.61,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.104.116,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.120.47,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.149.10,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.159.148,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.107.140,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.128.202,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.100.232,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.118.222,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.129.207,AS63612,26,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.116.41,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.118.152,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.123.124,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.113.183,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.154.11,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.134.253,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.135.202,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.111.236,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.134.28,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.120.179,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.101.89,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.153.107,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.131.197,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.100.4,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.131.211,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.129.41,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.98.173,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.134.172,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.103.110,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.108.146,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.103.247,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.100.31,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.110.150,AS63612,27,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.45.150.1,AS63612,27,cnnic.cn,Invalid,[Errno 104] Connection reset by peer
+103.219.65.96,AS63663,1,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.219.65.184,AS63663,2,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.219.65.49,AS63663,2,cnnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+113.240.103.2,AS63835,1,189.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.102.44.211,AS64022,1,kamatera.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '103.102.44.211'. (_ssl.c:1007)"
+72.82.255.252,AS701,1,verizonbusiness.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+12.44.81.70,AS7018,1,att.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+210.73.61.74,AS7497,1,cnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.73.61.47,AS7497,2,cnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+210.73.61.206,AS7497,2,cnic.cn,Invalid,_ssl.c:990: The handshake operation timed out
+177.177.97.34,AS7738,2,vtal.com,Invalid,[Errno 104] Connection reset by peer
+179.67.245.6,AS7738,2,vtal.com,Invalid,_ssl.c:990: The handshake operation timed out
+50.247.237.181,AS7922,1,comcast.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1007)
+20.208.46.123,AS8075,1,microsoft.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+176.10.169.24,AS8473,1,bahnhof.se,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+90.158.112.229,AS9021,1,isnet.net.tr,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+212.174.81.56,AS9121,1,turktelekom.com.tr,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+91.200.148.99,AS9123,1,timeweb.ru,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '91.200.148.99'. (_ssl.c:1007)"
+122.49.67.34,AS9286,1,kinx.net,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+124.105.28.42,AS9299,1,pldt.com,Invalid,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '124.105.28.42'. (_ssl.c:1007)"
+123.212.64.7,AS9318,2,skbroadband.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+39.123.55.126,AS9318,2,skbroadband.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+175.120.15.71,AS9318,1,skbroadband.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+211.211.10.25,AS9318,1,skbroadband.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+125.23.61.186,AS9498,1,airtel.in,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+124.7.51.141,AS9583,1,sifycorp.com,Invalid,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1007)
+111.28.138.52,AS9808,5,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.30.131.2,AS9808,3,10086.cn,Invalid,[Errno 104] Connection reset by peer
+117.175.167.43,AS9808,3,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.204.179.53,AS9808,3,10086.cn,Invalid,timed out
+183.236.15.111,AS9808,6,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.29.170.254,AS9808,6,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+223.85.114.38,AS9808,6,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+120.201.246.15,AS9808,6,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+120.201.246.16,AS9808,6,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+218.207.231.108,AS9808,5,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+211.137.86.45,AS9808,5,10086.cn,Invalid,timed out
+183.230.97.161,AS9808,6,10086.cn,Invalid,timed out
+111.28.138.112,AS9808,5,10086.cn,Invalid,_ssl.c:990: The handshake operation timed out
+112.29.226.36,AS9808,5,10086.cn,Invalid,timed out
+218.242.129.188,AS9812,1,scn.com.cn,Invalid,_ssl.c:990: The handshake operation timed out
+103.169.113.18,AS9875,12,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.143.52.155,AS9875,12,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.140.81.109,AS9875,12,psn.co.id,Invalid,timed out
+103.143.116.249,AS9875,12,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.143.117.85,AS9875,12,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.143.190.53,AS9875,12,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.168.113.205,AS9875,12,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.169.111.85,AS9875,12,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.143.115.18,AS9875,12,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.140.81.114,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.138.54.235,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.169.112.81,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.143.58.138,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.71.224.3,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.143.55.57,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.143.52.202,AS9875,15,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.167.148.114,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.159.235.44,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.167.143.116,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.71.226.12,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.167.143.125,AS9875,15,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.143.58.77,AS9875,15,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.143.53.133,AS9875,15,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.140.81.226,AS9875,15,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.143.103.235,AS9875,5,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.94.96.195,AS9875,5,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.137.147.93,AS9875,5,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.94.98.113,AS9875,5,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.167.143.45,AS9875,5,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out
+103.143.53.49,AS9875,12,psn.co.id,Invalid,timed out
+103.169.111.188,AS9875,12,psn.co.id,Invalid,[Errno 104] Connection reset by peer
+103.140.88.86,AS9875,12,psn.co.id,Invalid,_ssl.c:990: The handshake operation timed out

@@ -1,0 +1,133 @@
+Domain,Name Server,Provider,Count
+cnnic.cn,"a.cnnic.cn.,b.cnnic.cn.,c.cnnic.cn.,d.cnnic.cn.,e.cnnic.cn.","CNNIC-CRITICAL-CN,CNNIC-CRITICAL-CN,CNNIC-CRITICAL-CN,CNNIC-CRITICAL-CN,CNNIC-CRITICAL-CN",2594
+alibabagroup.com,"ns1.alibabadns.com.,ns2.alibabadns.com.","ALICLOUD-US,Taobao",22046
+verizonbusiness.com,"auth-ns1.verizonbusiness.com.,auth-ns2.verizonbusiness.com.,auth01.ns.uu.net.,auth200.ns.uu.net.,auth210.ns.uu.net.,auth50.ns.uu.net.,auth61.ns.uu.net.","MCI-CBLK,MCI-CBLK,NETBLK-UUNETCBLK4,UUNET-EURO-SERVER1,UUNET-EURO-SERVER1,NETBLK-UUNETCBLK4,NETBLK-UUNETCBLK4",1
+chinaunicom.cn,"ns.bta.net.cn.,ns2.bta.net.cn.","UNICOM-BJ,UNICOM-BJ",2714
+chinatelecom.com.cn,"dns1.chinatelecom.com.cn.,dns2.chinatelecom.com.cn.","CT-CLOUDYCOMPANY,CHINANET-SH",7594
+cdn77.com,"ns1.cdn77.com.,ns2.cdn77.com.","CDN77-ANYCAST,CDN77-ANYCAST",1
+chinatelecom.cn,"dns1.chinatelecom.cn.,dns2.chinatelecom.cn.","CT-CLOUDYCOMPANY,CHINANET-SH",1308
+controld.com,"evan.ns.cloudflare.com.,liz.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",19
+cernet.edu.cn,"dns.edu.cn.,dns2.edu.cn.","CERNET-CN,BJR-CERNET",6513
+psn.co.id,"ns1.pesat.net.id.,ns2.pesat.net.id.,ns3.pesat.net.id.","PESAT-INFRASTRUKTUR,PESAT-INFRASTRUKTUR,PESAT-INFRASTRUKTUR",377
+zjtelecom.com.cn,"ns7.cnmsn.net.,ns8.cnmsn.net.","CHINANET-SH,CHINANET-SH",219
+nn.gx.cn,"ns.lzptt.gx.cn.,ns.nn.gx.cn.","CHINANET-GX,CHINANET-GX",1
+packet.com,"dns1.p01.nsone.net.,dns2.p01.nsone.net.,dns3.p01.nsone.net.,dns4.p01.nsone.net.","NSONE-DNS,NSONE-DNS,NSONE-DNS,NSONE-DNS",1
+nextdns.io,"dawn.ns.cloudflare.com.,lee.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",30
+10086.cn,"ns1.cmmobile.cn.,ns1.cnmobile.net.,ns2.cmmobile.cn.,ns2.cnmobile.net.","CMNET,CMNET,CMNET,CMNET",196
+chartercom.com,"ns1.charter.com.,ns2.charter.com.,ns3.charter.com.,ns4.charter.com.","CHTR-HSA-1BLK,CHTR-HSA-1BLK,CHTR-HSA-2BLK,CHTR-HSA-2BLK",1
+cloudflare.com,"ns3.cloudflare.com.,ns4.cloudflare.com.,ns5.cloudflare.com.,ns6.cloudflare.com.,ns7.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET,CLOUDFLARENET,CLOUDFLARENET,CLOUDFLARENET",54
+shatel.ir,"ns1.shatel.ir.,ns2.shatel.ir.","SHTL-NET-INFRA,SHTL-DSL-THR",3
+gd.gov.cn,"ns1.gd.gov.cn.,ns2.gd.gov.cn.","Digital-Guangdong,Digital-Guangdong",5
+danielselectric.com,"ns1.mediatemple.net.,ns2.mediatemple.net.","GO-DADDY-COM-LLC,GO-DADDY-COM-LLC",57
+nos.pt,"ns5.nos.pt.,ns6.nos.pt.","CLOUDFLARENET,CLOUDFLARENET",2
+jsinfo.net,"ns.jsinfo.net.,ns.ptt.js.cn.","CHINANET-JS,CHINANET-JS",264
+iforte.co.id,"ns1.iforte.net.id.,ns2.iforte.net.id.,ns3.iforte.net.id.,ns4.iforte.net.id.","SolusiNET,SOLUSINET-ID,SOLUSINET-SOLUSI,SOLUSINET-ID",234
+i3d.net,"ns1.i3d.nl.,ns2.i3d.net.,ns3.i3d.network.","INTERACTIVE3D,i3Dnet-legacyinfra-uslax1,I3DNET-AP",5
+odido.nl,"ns1.openprovider.nl.,ns2.openprovider.be.,ns3.openprovider.eu.","CLOUDFLARENET,CLOUDFLARENET,CLOUDFLARENET",1
+nazwa.pl,"ns1.nazwa.pl.,ns2.nazwa.pl.,ns3.nazwa.pl.","NAZWAPL-ANYCAST,NAZWAPL-ANYCAST,NAZWAPL-ANYCAST",1
+pishgaman.net,"ns1.pishgaman.net.,ns2.pishgaman.net.","IR-PTE-TEHRAN-20120829,IR-PTE-TEHRAN-20120829",5
+netvigator.com,"ns4.netvigator.com.,ns5.netvigator.com.","NETVIGATOR,NETVIGATOR",5
+tencent.com,"ns1.qq.com.,ns2.qq.com.,ns3.qq.com.,ns4.qq.com.","TENCENT-NET-AP,TencentCloud,CMNET-shanghai,UNICOM-CQ",116
+cnic.cn,"ns3.cstnet.cn.,ns4.cstnet.cn.","CSTNET-CN,CSTNET-CN",8
+conac.cn,"ns1.sdc.org.cn.,ns2.sdc.org.cn.,ns3.sdc.org.cn.","AP-CONAC-CN,AP-CONAC-CN,AP-CONAC-CN",17
+morva.net,"win10.morvahost.com.,win9.morvahost.com.","IR-ASIATECH-NET,IR-ASIATECH-NET",1
+idstrategy.com.ua,"ns.idstrategy.com.ua.,ns2.idstrategy.com.ua.,ns3.idstrategy.com.ua.","IDSTRATEGY-VM,IDSTRATEGY-VM,CLIENTS_DC_EU",1
+chess.no,"ns1.hyp.net.,ns2.hyp.net.,ns3.hyp.net.","NO-DOMENESHOP,NICat-NET,NO-DOMENESHOP",1
+myrepublic.co.id,"erin.ns.cloudflare.com.,scott.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+convergeict.com,"ns3.metroconnect.com.ph.,ns4.metroconnect.com.ph.","CONVERGE_ICT_SOLUTION_INC,CONVERGE_ICT_SOLUTION_INC",1
+dnsfilter.com,"amir.ns.cloudflare.com.,pam.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+ntt.com,"ns-os001.ocn.ad.jp.,pns.ocn.ad.jp.","OCN,OCN",2
+manitu.de,"dns.fh-trier.de.,dns01.manitu.net.,dns02.manitu.net.,dns03.manitu.net.,dns04.manitu.net.,ns.umwelt-campus.de.","FH-RPL-NET,MANITU-NET-1,MANITU-NET-1,MANITU-NET-1,NETCUP-NETWORK-202-61-224-0-20,FH-RPL-NET",1
+yahsat.ae,"pdns01.domaincontrol.com.,pdns02.domaincontrol.com.","GO-DADDY-COM-LLC,GO-DADDY-COM-LLC",5
+constant.com,"ns1.constant.com.,ns2.constant.com.","NET-68-232-191-0-24,NET-68-232-191-0-24",1
+tookan.tech,"tom.ns.cloudflare.com.,uma.ns.cloudflare.com.","HTTP lookup failed for http://rdap.arin.net/registry/ip/173.245.59.147.,HTTP lookup failed for http://rdap.arin.net/registry/ip/172.64.32.146.",1
+hkbnes.net,"a1-138.akam.net.,a11-66.akam.net.,a2-66.akam.net.,a24-67.akam.net.,a26-64.akam.net.,a5-66.akam.net.","AKAMAI-PI-1,AKAMAI-PA,AKAMAI-PA,AKAMAI-PA,HTTP lookup failed for http://rdap.arin.net/registry/ip/23.74.25.64.,AKAMAI-PA",2
+camtel.cm,"benoue.camnet.cm.,kim.camnet.cm.,lom.camnet.cm.,mbam.camnet.cm.",,1
+he.net,"ns1.he.net.,ns2.he.net.,ns3.he.net.,ns4.he.net.,ns5.he.net.","HURRICANE-1,HURRICANE-1,HURRICANE-1,HURRICANE-6,HTTP lookup failed for http://rdap.arin.net/registry/ip/216.66.80.18.",1
+taknet.ir,"ns1.taknet.ir.,ns3.taknet.ir.,ns4.taknet.ir.","IR-HESABGAR-T,IR-HESABGAR-T,IR-HESABGAR-T",2
+priscoelectronica.com,"ns1.priscocloud.net.,ns2.priscocloud.net.","ES-PRISCO-NOC-A,ES-PRISCO-NOC-A",1
+lmt.lv,"gsm2.lmt.lv.,lte4.lmt.lv.,ns2.online.lv.","LMT,LV-LMT-20080326,APOLLO-LATTELECOM-SERVICES",10
+tele2.se,"pitea.dns.swip.net.,sunic.sunet.se.,ystad.dns.swip.net.","SE-SWIPNET,SUNET-BACKBONE,SE-SWIPNET",3
+mpsedc.com,ccrac6.4cplus.com.,The DNS query name does not exist: ccrac6.4cplus.com.,2
+afranet.com,"ns.afranet.com.,ns1.afranet.com.,ns2.afranet.com.,ns3.afranet.com.,ns4.afranet.com.","Tech-com,Tech-com,IR-AFRANET-20071221,IR-ASIATECH-DC,HostiranNetwork",2
+kddi.com,"dns103.kddi.ne.jp.,dns104.kddi.ne.jp.,dnsa01.kddi.ne.jp.,dnsa02.kddi.ne.jp.","KDDI-NET,KDDI-NET,AMAZON-2011L,AMAZON-NRT",1
+hinet.net,"ans1.hinet.net.,ans2.hinet.net.,ans3.hinet.tw.","HINET-NET,HINET-NET,HINET-NET",2
+globalconnect.no,"a.ns.isp.as2116.net.,b.ns.isp.as2116.net.,c.ns.isp.as2116.net.,d.ns.isp.as2116.net.","SYSEDATA-NET,SYSEDATACOLO-NET,SYSEHOSTING-NET,LINODE-UK",1
+orange.com,"dns1.comlaude-dns.com.,dns2.comlaude-dns.net.,dns3.comlaude-dns.co.uk.,dns4.comlaude-dns.eu.","NSONE-DNS,NSONE-DNS,NSONE-DNS,NSONE-DNS",1
+claro.com.br,"ns01.claro.net.br.,ns02.claro.net.br.,ns03.claro.net.br.,ns04.claro.net.br.","HTTP lookup failed for http://rdap.lacnic.net/rdap/ip/200.169.122.145 with error code 403.,HTTP lookup failed for http://rdap.lacnic.net/rdap/ip/201.6.1.7 with error code 403.,HTTP lookup failed for http://rdap.lacnic.net/rdap/ip/200.255.122.166 with error code 403.,HTTP lookup failed for http://rdap.lacnic.net/rdap/ip/200.169.123.38 with error code 403.",1
+oracle.com,"a1-160.akam.net.,a11-66.akam.net.,a13-65.akam.net.,a18-67.akam.net.,ns1.p201.dns.oraclecloud.net.,ns2.p201.dns.oraclecloud.net.,ns3.p201.dns.oraclecloud.net.,ns4.p201.dns.oraclecloud.net.","AKAMAI-PI-1,AKAMAI-PA,AKAMAI-PA,AKAMAI-PA,TZODNS-1,TZODNS-1,TZODNS-1,TZODNS-1",1
+fanaptelecom.net,"ns1.fanaptelecom.net.,ns2.fanaptelecom.net.,ns3.fanaptelecom.net.,ns4.fanaptelecom.net.","FANAPTELECOM-NETWORK,FANAPTELECOM-NETWORK,FANAPTELECOM-NETWORK,FANAPTELECOM-NETWORK",9
+totalplay.com.mx,"ns3.totalplay.com.mx.,ns4.totalplay.com.mx.,ns5.totalplay.com.mx.","187.190.0.0 - 187.190.255.255,187.190.0.0 - 187.190.255.255,187.190.0.0 - 187.190.255.255",1
+syr.edu,"icarus.syr.edu.,its-ndd-nc-extns-01.syr.edu.,its-ndd-sc-extns-01.syr.edu.,lurch.cns.syr.edu.,lurch.syr.edu.,ns1.syr.edu.,ns2.syr.edu.","SYR-UNIV-NET,SYR-UNIV-NET,SYR-UNIV-NET,SYR-UNIV-NET,SYR-UNIV-NET,SYR-UNIV-NET,SYR-UNIV-NET",1
+antel.com.uy,"portal1.antel.com.uy.,portal2.antel.com.uy.","200.40.0.0 - 200.40.127.255,200.40.0.0 - 200.40.127.255",1
+parspack.com,"ns10.parspack.com.,ns11.parspack.com.,ns12.parspack.com.","ClouDNS,ClouDNS,ClouDNS",1
+ncts.com.eg,"cache.afmic.gov.eg.,dns1.afmic.gov.eg.,dns2.afmic.gov.eg.,dns3.afmic.gov.eg.,dns4.afmic.gov.eg.,dns5.afmic.gov.eg.",IPv4 address 172.30.30.160 is already defined as Private-Use Networks via RFC 1918.,1
+kt.com,"name.kt.co.kr.,name2.kt.co.kr.,name3.kt.co.kr.","KORNET-KR,KORNET-KR,KORNET-KR",14
+master.cz,"ns1.master.cz.,ns2.master.cz.,ns3.master.cz.","MASTER1-2-2,MASTER1-2-2,PODA-STATIC-ID1389429504-NET",1
+yota.com.ni,"henry.ns.cloudflare.com.,zita.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+vyvebroadband.com,"ns1.hover.com.,ns2.hover.com.","TUCOW-BLK01,TUCOWS-BLK2",1
+antidot.ua,"anirban.ns.cloudflare.com.,maria.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+telenet.be,"ns.telenet-ops.be.,ns2.telenet-ops.be.","TELENET,TELENET",1
+lguplus.co.kr,"ns.lguplus.co.kr.,nsdr.lguplus.co.kr.","BORANET-KR,BORANET-KR",1
+claro.com.gt,"ns.comtech.net.gt.,ns.telgua.com.gt.,ns1.claro.com.gt.,ns1.claro.com.pa.","216.230.128.0 - 216.230.159.255,216.230.128.0 - 216.230.159.255,168.234.0.0 - 168.234.255.255,168.234.0.0 - 168.234.255.255",1
+binawan.ac.id,"bailey.ns.cloudflare.com.,lou.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",2
+maxis.com.my,"isgbns3.,ns3.maxis.com.my.,ns4.maxis.com.my.,ns8.maxis.com.my.,ns9.maxis.com.my.","The DNS query name does not exist: isgbns3.,MAXISNET,MAXISNET,AMAZON-ASIA-SIN2,AT-88-Z",1
+bgctv.com.cn,"ns1.alidns.com.,ns2.alidns.com.","ALISOFT,ALISOFT",4
+sbu.ac.ir,"ns1.sbu.ac.ir.,ns2.sbu.ac.ir.","SBUN,SBUN",4
+adguard.com,"kim.ns.cloudflare.com.,todd.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+amazon.com,"ns1.amzndns.co.uk.,ns1.amzndns.com.,ns1.amzndns.net.,ns1.amzndns.org.,ns2.amzndns.co.uk.,ns2.amzndns.com.,ns2.amzndns.net.,ns2.amzndns.org.","SSL-1134,SSL-1134,SSL-1134,SSL-1134,SECURITYSERVICES,SSL-1134,SSL-1134,SSL-1134",1
+ip-projects.de,"ns3.ip-projects.de.,ns4.ip-projects.de.","INTERNETX-INTERN-ADNS2-NET1,IONOSTECH-NET",1
+megacable.com.mx,"a1-223.akam.net.,a11-64.akam.net.,a16-65.akam.net.,a26-65.akam.net.,a4-64.akam.net.,a9-65.akam.net.","AKAMAI-PI-1,AKAMAI-PA,AKAMAI,AKAMAI,AKAMAI-ARIN-1,AKAMAI",1
+fibrlink.com,"ns.fibrlink.net.,ns2.fibrlink.net.","FibrLINK,FibrLINK",2
+contabo.com,"ben.ns.cloudflare.com.,sue.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+dadepardazimobin.com,"alex.ns.cloudflare.com.,veda.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+netactuate.com,"brad.ns.cloudflare.com.,nora.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",2
+china-entercom.net,"dns1.cibonet.com.,dns2.cibonet.com.","CHINAENTERCOM,CHINAENTERCOM",5
+telekom3.de,"ns1.telekom.net.,pns.dtag.de.","DTAG-SERVICE-DNS-SECONDARY,DTAG-BB1",1
+talktalkplc.com,"ds0.opaltelecom.net.,ds1.opaltelecom.net.,ds2.opaltelecom.net.","UK-OPALNET-20000413,TTT-NEC-SLB,UK-OPALNET-20000413",1
+polinpdg.ac.id,"giancarlo.ns.cloudflare.com.,leia.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+accelecom.net,"ns1-09.azure-dns.com.,ns2-09.azure-dns.net.,ns3-09.azure-dns.org.,ns4-09.azure-dns.info.","MSFT,MSFT,MSFT-SV3-TEST,MSFT",1
+asiatech.ir,"ns1.asiatech.ir.,ns2.asiatech.ir.","IR-ASIATECH-NET,IR-ASIATECH-NET",1
+telmex.com,"ns10.telmex.com.,ns11.telmex.com.,ns8.telmex.com.,ns9.telmex.com.","187.191.64.0 - 187.191.95.255,187.191.64.0 - 187.191.95.255,200.57.128.0 - 200.57.159.255,200.57.128.0 - 200.57.159.255",1
+skbroadband.com,"ns.hananet.net.,ns2.hananet.net.","broadNnet-KR,broadNnet-KR",10
+meo.pt,"coltrane.telepac.pt.,ns2.telepac.pt.,ns3.telepac.pt.,ns4.telepac.pt.","PT-TELEPAC-960515,TELEPAC-SERVICES,PT-TELEPAC-960515,TELEPAC-SERVICES",1
+so-net.net.tw,"ns-cloud-e1.googledomains.com.,ns-cloud-e2.googledomains.com.,rns1.so-net.net.tw.,rns2.so-net.net.tw.","GOOGLE,GOOGLE,SONET-NET,SONET-NET",1
+excitel.com,"alla.ns.cloudflare.com.,will.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",10
+cogeco.com,"ns1.cgocable.net.,ns2.cgocable.net.,ns3.cgocable.ca.,ns4.cgocable.ca.","CGOC-RESERVED4,CGOC-RESERVED1,COQB-TR03,COQB-TR03",1
+echosp.co.za,"ns.dns1.co.za.,ns.dns2.co.za.,ns.otherdns.com.,ns.otherdns.net.",NET-149-28-240-0-23,1
+baidu.com,"dns.baidu.com.,ns2.baidu.com.,ns3.baidu.com.,ns4.baidu.com.,ns7.baidu.com.","UNICOM-HE,CHINANET-IDC-BJ,CMNET,CHINANET-GD,Baidu",1
+linesystems.com,"ns1.buckeyecom.net.,ns2.buckeyecom.net.,ns3.buckeyecom.net.","BUCKEYE-CABLESYSTEM,BUCKEYE-CABLESYSTEM,AMAZON-IAD",1
+opendns.com,"auth1.opendns.com.,auth2.opendns.com.,auth3.opendns.com.","OPENDNS-NET-2,OpenDNS-RIPE,OPENDNS-NET-2",1
+respina.net,"ns01.respina.net.,ns02.respina.net.","IR-RSPN,IR-RSPN",2
+swisscom.ch,"dns1.swisscom.com.,dns2.swisscom.com.,dns3.swisscom.com.","Swisscom-ITS,Swisscom-ITS,CH-SWISSCOM-ITS-193-222",1
+patrikweb.net,"ns1.patrikweb.com.,ns2.patrikweb.com.","PATRIKWEB-PROVIDER,PatrikWeb-Backbone",1
+sunrise.ch,"ns1.sunrise.ch.,ns2.sunrise.ch.,ns3.sunrise.ch.,ns4.sunrise.ch.","SUNRISE-DNS-NET,SUNRISE-DNS-NET,SUNRISE-DNS-NET,SUNRISE-DNS-NET",1
+nitco.com,"ns1.netnitco.net.,ns2.netnitco.net.,ns3.netnitco.net.","NETNITCO,NETNITCO,NETNITCO",1
+vee.com.tw,"ns1.emax.net.tw.,ns2.emax.net.tw.,ns3.emax.net.tw.","VEETIME-TW,VEETIME-TW,VEETIME-TW",1
+bitel.de,"ns01.bitel.net.,ns02.bitel.net.,ns03.bitel.net.","BITel-Server-Network,BITel-Server-Network,STADTWERKE-BIELEFELD",1
+comcast.com,"dns101.comcast.net.,dns102.comcast.net.,dns103.comcast.net.,dns104.comcast.net.,dns105.comcast.net.","JUMPSTART-4,COMCAST-18,COMCAST-18,COMCAST-18,COMCAST-18",1
+fanavaidc.com,"ns1.fanavaidc.com.,ns2.fanavaidc.com.","IR-FIDC-20070828,IR-FIDC-20070828",1
+homeplus.net.tw,"58.86.33.10.,58.86.34.10.,celtics.homeplus.net.tw.,celtics2.homeplus.net.tw.,clippers.homeplus.net.tw.,lakers.homeplus.net.tw.,lakers2.cns.net.tw.","The DNS query name does not exist: 58.86.33.10.,The DNS query name does not exist: 58.86.34.10.,HUANG-NET,IPv4 address 172.18.170.2 is already defined as Private-Use Networks via RFC 1918.,HUANG-NET,HUANG-NET,IPv4 address 172.18.170.4 is already defined as Private-Use Networks via RFC 1918.",1
+transtelco.net,"ns00.transtelco.net.,ns01.transtelco.net.,ns02.transtelco.net.,ns03.transtelco.net.,ns04.transtelco.net.","TIGGEE,TIGGEE,TIGGEE,TIGGEE,TIGGEE",10
+globalconnect.se,"ns1.eurodns.com.,ns2.eurodns.com.,ns3.eurodns.com.,ns4.eurodns.com.","NUCDN-ARIN-4,NUCDN-ARIN-1,NUCDN-ARIN-4,NUCDN-ARIN-1",1
+bredband2.com,"lee.ns.cloudflare.com.,olga.ns.cloudflare.com.","CLOUDFLARENET,CLOUDFLARENET",1
+aminidc.com,"ns1.aminidc.com.,ns2.aminidc.com.,ns3.aminidc.com.,ns4.aminidc.com.","Amin-IDC-Network,Amin-IDC-Network,CLOUD-FSN1,Amin-IDC-Network",1
+hgc-intl.com,"dnshost1.on-nets.com.,dnshost2.on-nets.com.","HGCGLOBAL-HK,HGCGLOBAL-HK",1
+prtcnet.com,"NS2.prtcom.com.,ns1.prtcom.com.","PRTC-LAURENS-IP-BLOCK-1,PRTC-LAURENS-IP-BLOCK-1",1
+vodafone.it,"ns1.vodafone.com.,ns3.vodafone.com.,ns5.vodafone.com.","VODAFONE-IP-SERVICE,VODAFONE-IP-SERVICE,VODAFONE-IP-SERVICE",1
+simbafiber.co.zm,"ns1.jcpbusiness.com.,ns2.jcpbusiness.com.","COLO4-BLK6,COLO4-BLK6",1
+homesc.com,"ns-1206.awsdns-22.org.,ns-144.awsdns-18.com.,ns-1975.awsdns-54.co.uk.,ns-670.awsdns-19.net.","AMAZON-EC2,HTTP lookup failed for http://rdap.arin.net/registry/ip/205.251.192.144.,AMAZON-BYOIP,AMAZON-BYOIP",1
+moratelindo.co.id,"ns1.cepat.net.id.,ns3.cepat.net.id.,ns4.cepat.net.id.","CEPATNET-ID,ID-MORATELINDONAP-NET-5,MORATELINDO-SERVER-FARM-JKT",1
+lumen.com,"authns1.qwest.net.,authns2.qwest.net.","CENTURYLINK-LEGACY-QWEST-INET-8,CENTURYLINK-LEGACY-QWEST-INET-3",1
+tm.com.my,"ns1.a0.impervasecuredns.net.,ns1.a1.impervasecuredns.net.","INCAPSULA-NETWORK,INCAPSULA-NETWORK",1
+vtal.com,"ns03.vtal.com.br.,ns04.vtal.com.br.","HTTP lookup failed for http://rdap.lacnic.net/rdap/ip/200.96.252.16 with error code 403.,HTTP lookup failed for http://rdap.lacnic.net/rdap/ip/200.96.250.16 with error code 403.",1
+cei.gov.cn,"ns1.cei.cn.,ns2.cei.cn.","DXTNET,DXTNET",4
+monsternett.no,"ns1.monsternett.no.,ns2.monsternett.no.","MONSTERNETT,MONSTERNETT",1
+topmso.com.tw,"ns1.topmso.com.tw.,ns2.topmso.com.tw.","tinp-net,tinp-net",1
+free.fr,"freens1-g20.free.fr.,freens2-g20.free.fr.,freens3-scw.free.fr.","FR-PROXAD,FR-PROXAD,ONLINENET_DEDICATED_SERVERS",1
+ais.co.th,"master01.csloxinfo.com.,master02.csloxinfo.com.,ns1.ais.co.th.,ns2.ais.co.th.","MASTER01-TH,csloxinfo-th,TH_AIS_Infrastructure,TH_AIS_Infrastructure",1
+lumenet.com.mx,"ns1.lumenet-comunicaciones.com.,ns3.lumenet-comunicaciones.com.","45.6.140.0 - 45.6.143.255,45.6.140.0 - 45.6.143.255",1
+jcntv.co.kr,"ns-1413.awsdns-48.org.,ns-1658.awsdns-15.co.uk.,ns-435.awsdns-54.com.,ns-873.awsdns-45.net.","AMAZON-EC2,AMAZON-BYOIP,AMAZON-BYOIP,AMAZON-BYOIP",1
+stratusiq.com,"ns1.stratusiq.com.,ns2.stratusiq.com.","STRATUSIQ,STRATUSIQ",1
+svcpl.net.in,"ns53.domaincontrol.com.,ns54.domaincontrol.com.","GO-DADDY-COM-LLC,GO-DADDY-COM-LLC",1
+columbia.edu,"auth1.dns.cogentco.com.,auth2.dns.cogentco.com.,auth4.dns.cogentco.com.,auth5.dns.cogentco.com.,ext-ns1.columbia.edu.,ns1.lse.ac.uk.","COGENT-NB-0000,COGENT-NB-0000,COGENT-FR-CGNT,CGNT-ES-BACKBONE,CU-NET,LSE",1
