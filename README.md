@@ -108,9 +108,7 @@ DoH-POST
   - recommended by DoH standard [3 modes]
 ```
 DoH2-BASE64-PARAMS
-
 DoH2-POST
-
 DoH2-GET-PARAMS
 ```
 # EXAMPLES
@@ -173,12 +171,28 @@ PORT    STATE SERVICE
 
 Nmap done: 1 IP address (1 host up) scanned in 0.64 seconds
 ```
+## 3. Search IP addresses to validate responses and obtain domain names [custom python script]
+Usage:
+```
+python3 main.py -f inputfile -j 12
+// input a list of ipaddress seperated by newline
+```
+Example output:
+```
+IP,jsonH1,jsonH2,getH1,getH2,postH1,postH2,hostname,ESNIsupport,TLS13support
+1.1.1.1,True,True,True,True,True,True,1.1.1.1,False,False
+```
 
 ## Test references
 - [List of DNS over HTTPS resolvers on the internet](https://pages.github.com/](https://zenodo.org/records/4923371))
 - [NMAP Scripts for DNS over HTTPS](https://github.com/robvandenbrink/dns-doh.nse)
 - [Custom Nmap-NSE script](https://github.com/cejkato2/dns-doh.nse?tab=readme-ov-file)
-- [List of DNS over HTTPS resolvers on the internet]([https://pages.github.com/](https://zenodo.org/records/4923371))
+- [Custom python script](https://github.com/hynekkar/DoH-Checker)
+## Scanning limitations
+- Could not find DoH resolvers hosted on infrastructures hosting multiple services behind a single IP address
+  - In such cases, an SNI, or HTTP Host header, or HTTP/2 :authority header is needed for a successful request.
+  - Since we did not have the SNI, it was impossible to provide it.
+- We only scanned the IPv4 address space.
 
 
 
